@@ -4,19 +4,19 @@ atmosphere|n.|大气层；氛围|The approaching examination created a tense atm
 hydrosphere|n.|水圈；大气中的水汽|All the water in the earth's surface is included in the hydrosphere
 lithosphere|n.|岩石圈|The lithosphere and the hydrosphere together form the earth's surface
 ---
-oxygen|n.|氧气
-oxide|n.|氧化物
-carbon dioxide|n.|二氧化碳
-hydrogen|n.|氢气
+oxygen|n.|氧气 | Hydrogen and oxygen are gases
+oxide|n.|氧化物 | Oxide is a part of our daily life
+carbon dioxide|n.|二氧化碳 | Soft drinks usually contain carbin dioxide
+hydrogen|n.|氢气 | Two parts hydrogen, one part oxygen, you'll get water every time
 ---
-core|n.|中心；核心；地核
+core|n.|中心；核心；地核 | He is the core of the working group
 crust|n.|地壳；外壳|The crust on the snow was thick enough for us to walk on it
 mantle|n./v.|地幔；斗篷；披风；覆盖|Parents often use mantles for their babies to keep warm
 ---
-longitude|n.|经度
-latitude|n.|维度
+longitude|n.|经度 | The captain determines the latitude and longitude of his ship
+latitude|n.|维度 | Our position is 40 degrees north latitude
 horizon|n.|地平线；[~s]眼界；见识||horizontal adj. 水平的。broaden sb.'s horizons 开阔眼界
-altitude|n.|海拔；高度
+altitude|n.|海拔；高度 | I could see a ship on the horzion
 ---
 disaster|n.|灾难|There was a great flood disaster in East China|a disaster film/movie 灾难片
 mishap|n.|小灾难|A mishap prevented him from attending the routine company meeting
