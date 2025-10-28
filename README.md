@@ -126,6 +126,9 @@ pnpm run dev
 
 # 构建
 pnpm run build
+
+# 重新生成数据
+python3 src/pages/vocabulary/parser.py
 ```
 
 ## 禁止将本项目用于任何商业目的！！！
