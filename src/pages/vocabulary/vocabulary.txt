@@ -2845,29 +2845,29 @@ consortium|n.|财团；联营企业 | Several big companies have formed a consor
 league|n.|联赛；联盟；同盟 | Our club is a member of the Football League.| form a league 结成联盟
 ---
 institution|n.|机构 | Universities are educational insitutions. | educational adj. 教育的 an educational insitution 教育机构
-unite|v.|联合；团结 | All parties should unite their efforts to bring peace. | united adj. 联合的，一致的 unity n. 统一；一致，团结
+unite|v.|联合；团结 | All parties should unite their efforts to bring peace. | united adj. 联合的，一致的 unity n. 统一；一致，团结 effort n. 努力，艰苦的尝试
 unique|adj.|独一无二的；唯一的；独特的 | Each person's fingerprints are unique. | unique ability 独特的才能
 ---
 nation|n.|国家；民族；国民 | My judgement may be faulty, but my loyalty to the nation could not be questioned. | national adj. 民族的；国家的 nationality n. 国籍；民族 international adj. 国际的
 global|adj.|全球的；全世界的 | In the coming decades, the Pacific Rim will become the main impetus of the global economy. | impetus n. 动力，促进；动量，冲力
-worldwide|adj.|世界范围的；遍及全球的
-federal|adj.|联邦的；联合的
+worldwide|adj.|世界范围的；遍及全球的 | The money came from worldwide contribution. | contribution n. 贡献，捐款
+federal|adj.|联邦的；联合的 | Switzerland is a federal state in Europe. | federation n. 联邦制国家；联盟
 ---
-foreign|adj.|外国的；外来的；外交的
-overseas|adj./adv.|海外的；外国的/向海外；在海外
-abroad|adv.|到国外；在国外；广为流传
+foreign|adj.|外国的；外来的；外交的 | The new policy helped us to attract a lot of foreign investment. | foreigner n. 外国人 a foreign policy 外交政策
+overseas|adj./adv.|海外的；外国的/向海外；在海外 | The overseas students were concerned about the destiny of their motherland.| overseas trade 海外贸易
+abroad|adv.|到国外；在国外；广为流传 | The news spread abroad. | travel abroad 到国外旅行
 ---
-civil|adj.|公民的；国内的；民用的；斯文的
-emigrate|v.|移居国外
-immigrate|v.|（从外地）移居；移入
+civil|adj.|公民的；国内的；民用的；斯文的 | Gone with the Wind, a film about American civil war, is still regarded as one of the best Hollywood films. | civilise v. 使文明；开化 civil rights 公民权利
+emigrate|v.|移居国外 | They did not receive the permission to emigrate to the United States. | emigration n. 移居国外
+immigrate|v.|（从外地）移居；移入 | Many British colonists immigrated to the New World.| colonist n. 殖民者 immigration n. 移居（入境） immigrant n. 移民
 ---
-reign|n./v.|君主统治的时期/统治
-puppet|n.|玩偶；傀儡
-throne|n.|王位；宝座
-crown|n./v.|王冠/为...加冕
-wreath|n.|花环；花冠；花圈
+reign|n./v.|君主统治的时期/统治 | The reign of Queen Victoria lasted more than sixty years. 
+puppet|n.|玩偶；傀儡 | Are we the puppets of fate? | fate n. 命运 a puppet government 傀儡政府
+throne|n.|王位；宝座 | He was only eight when he ascended the throne. | ascend v. 攀登，登上 come to the throne 即位，登基
+crown|n./v.|王冠/为...加冕 | They crowed him shortly after the old king's death. | succeed to the crown 继承王位
+wreath|n.|花环；花冠；花圈 | A group of students placed a wreath at the tomb of the national hero. | tomb n. 坟墓
 ---
-colony|n.|殖民地
+colony|n.|殖民地 | Britain lost its American colonies in a revolution. | colonial 
 liberty|n.|自由
 independence|n.|独立；自立
 ---
