@@ -2790,66 +2790,66 @@ egalitarian|adj./n.|平等主义的/平等主义者 | Clearly, the egalitarian s
 materialism|n.|唯物主义；唯物论 | Both of them believed in Marxism and materialism. | material n. 物质；素材；材料
 ---
 revolution|n.|革命；巨大变化 | The invention of aircraft caused a revolution in our ways of travelling.
-reform|v./n.|改革、改良；改过自新/改革、改良
-process|n./v.|过程；进程/处理；加工；列队前进
-conservative|adj./n.|保守的/保守党员
-meltdown|n.|堆芯熔毁；崩溃
+reform|v./n.|改革、改良；改过自新/改革、改良 | He promised to reform if given another chance.
+process|n./v.|过程；进程/处理；加工；列队前进 | They went over every process again, but couldn't find the cause of the problem. | procession n. 队伍，行列；一连串 in the process of 在...过程中
+conservative|adj./n.|保守的/保守党员 | The researchers made a conservative estimation of the population of New Delhi. | Conservative Party 保守党
+meltdown|n.|堆芯熔毁；崩溃 | The commentator sees a bright side to the financial meltdown. | commentator n. 评论员；实况解说员；现场解说员
 ---
-municipal|adj.|市政的，地方政府的
-neutral|adj.|中立的；中立国的
-bilateral|adj.|双边的
+municipal|adj.|市政的，地方政府的 | He went to a municipal university. 
+neutral|adj.|中立的；中立国的 | She is neutral in this argument and doesn't care who wins. | neutrally adv. 中立地； remain neutral 保持中立
+bilateral|adj.|双边的 | They have signed a bilateral peace treaty. | a bilateral agreement 双边协定
 ---
-arena|n.|竞技场、运动场；舞台、活动领域
-flag|n.|旗
-banner|n.|横幅、标语
+arena|n.|竞技场、运动场；舞台、活动领域 | He withdraw from the political arena.
+flag|n.|旗 | Flags were fluttering in the wind. | a national flag
+banner|n.|横幅、标语 | Banners demanding an immediate ceasefire are flying in the city's main square. | ceasefire n. 停火协议 under the banner of 以....的名义
 ---
-president|n.|总统；校长；董事长
-premier|n./adj.|总理、首相/首要的，第一的
-minister|n.|部长；大臣；公使
-secretary|n.|秘书、书记员、大臣
+president|n.|总统；校长；董事长 | When the president of the company retired, the vice-president was elevated to his position. | elevate v. 提拔，提升
+premier|n./adj.|总理、首相/首要的，第一的 | The premier deals with important state affairs. | premiership n. 总理职位、首相职位
+minister|n.|部长；大臣；公使 | The minister can only cat in this matter with the sanction of parliament. | sanction n. 制裁；处罚；惩罚 Ministry n. （政府的）部门；（大学的）系、所
+secretary|n.|秘书、书记员、大臣 | The new secretary is being lectured for the poor quality of her work. | employ a new secretary 雇佣新秘书
 ---
-parliament|n.|议会、国会
-senate|n.|大学理事会||the Senate 参议院
-conference|n.|（常持续数日的大型正式）会议；正式商谈
-meeting|n.|会议；会面
+parliament|n.|议会、国会 | He lost his seat in the Parliament at the election.
+senate|n.|大学理事会 | The bill was approved by both the House and the Senate. | The House 众议院 the Senate 参议院
+conference|n.|（常持续数日的大型正式）会议；正式商谈 | The World Conference on Human Rights discussed the common problems of mankind and advanced human rights work around the world. | mankind n. 人类
+meeting|n.|会议；会面 | I have written down the date of the next meeting in my diary. | address a meeting 在会上发言
 ---
-headquarters|n.|总部，总公司；司令部
-delegation|n.|代表团；委派
-behalf|n.|[on ~ of sb.]代表某人
+headquarters|n.|总部，总公司；司令部 | The company's headquarters is in Paris.
+delegation|n.|代表团；委派 The delegation ended their visit to China on March 30th. | delegate v. 委派
+behalf|n.|[on ~ of sb.]代表某人 | The president signed the document on behalf of the school. | on behalf of sb. / on sb's behalf 代表某人
 ---
-police|n.|警察||the police 警方
-statesman|n.|政治家
-mayor|n.|市长
+police|n.|警察 | His strange behaviour made the police suspicious. | call the police 叫警察 the police 警方
+statesman|n.|政治家 | He will go down in history as a great statesman.
+mayor|n.|市长 | A mayor is determined to clean up the city.
 ---
-service|n.|服务
-office|n.|办公室；要职；官职；[Office]部、局、厅
-bureau|n.|局、处、科；办事处
-department|n.|（政府的）部门；（大学的）系、所
+service|n.|服务 | The volunteers for community service are doing a good job. | at sb's service 可供某人使用
+office|n.|办公室；要职；官职；[Office]部、局、厅 | Now he holds office in the Foreign Ministry. | come into office 上任，就职
+bureau|n.|局、处、科；办事处 | The Bureau of Land Management is not so far from here. | bureaucracy n. 官僚制度；官僚作风
+department|n.|（政府的）部门；（大学的）系、所 | He worked in Community Welfare Department. | welfare n./adj. 幸福；安康； 福利的，接受社会救济的
 ---
-harness|v.|利用；控制
-administration|n.|管理；行政
-dominate|v.|支配；控制；占优势
-power|n.|能源；权力；政权；能力
+harness|v.|利用；控制 | Some scientists are working hard at how tide can be harnessed to produce electricity.
+administration|n.|管理；行政 | You will need some experience in administration before you can run the department.
+dominate|v.|支配；控制；占优势 | A great man can dominate others by force of character. | domination n. 控制，统治 predominate v. 占主导地位 predominant adj. 主导的，占优势的
+power|n.|能源；权力；政权；能力 | A preson should rely upon his or her own power. | powerful adj. 强有力的；强大的； rely v. 相信，依赖
 ---
-influence|n./v.|影响；作用/影响
-affect|v.|影响；打动；使悲伤
+influence|n./v.|影响；作用/影响 | I was influenced by my teacher and chose to study science at college. | influential adj. 有影响力的，有优势的  have an influence on 对...产生影响
+affect|v.|影响；打动；使悲伤 | The disease affects the central central nervous system. | effect n. 影响，作用
 importance|n.|重要，重要性|The police officer emphasised the importance of careful driving|important adj. 重要的；有势力的。realise the importance 意识到重要性
-significance|n.|重要性；意义
+significance|n.|重要性；意义 | This fact has little significance for us. | significant adj. 有意义的，重要的  
 ---
-organization/organisation|n.|组织；团体；机构
-association|n.|协会；团体；关联
-union|n.|联合；联盟；工会
+organization/organisation|n.|组织；团体；机构 | They have established a student organisation . | organise(=organize) v. 组织，安排
+association|n.|协会；团体；关联 | Have you ever joined the parent-teacher association? | associate v. 联想，联系
+union|n.|联合；联盟；工会 | The largest teachers' union uspports the education reforms.| a trade union [应英]工会 a labor union [美]工会
 ---
-community|n.|社区；群体；（生物的）群落
-consortium|n.|财团；联营企业
-league|n.|联赛；联盟；同盟
+community|n.|社区；群体；（生物的）群落 | To host the Olympic Games, Beijing expanded its English-speaking community. | a community centre 社区活动中心
+consortium|n.|财团；联营企业 | Several big companies have formed a consortium.
+league|n.|联赛；联盟；同盟 | Our club is a member of the Football League.| form a league 结成联盟
 ---
-institution|n.|机构
-unite|v.|联合；团结
-unique|adj.|独一无二的；唯一的；独特的
+institution|n.|机构 | Universities are educational insitutions. | educational adj. 教育的 an educational insitution 教育机构
+unite|v.|联合；团结 | All parties should unite their efforts to bring peace. | united adj. 联合的，一致的 unity n. 统一；一致，团结
+unique|adj.|独一无二的；唯一的；独特的 | Each person's fingerprints are unique. | unique ability 独特的才能
 ---
-nation|n.|国家；民族；国民
-global|adj.|全球的；全世界的
+nation|n.|国家；民族；国民 | My judgement may be faulty, but my loyalty to the nation could not be questioned. | national adj. 民族的；国家的 nationality n. 国籍；民族 international adj. 国际的
+global|adj.|全球的；全世界的 | In the coming decades, the Pacific Rim will become the main impetus of the global economy. | impetus n. 动力，促进；动量，冲力
 worldwide|adj.|世界范围的；遍及全球的
 federal|adj.|联邦的；联合的
 ---
