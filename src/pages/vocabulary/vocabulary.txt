@@ -2814,7 +2814,7 @@ conference|n.|（常持续数日的大型正式）会议；正式商谈 | The Wo
 meeting|n.|会议；会面 | I have written down the date of the next meeting in my diary. | address a meeting 在会上发言
 ---
 headquarters|n.|总部，总公司；司令部 | The company's headquarters is in Paris.
-delegation|n.|代表团；委派 The delegation ended their visit to China on March 30th. | delegate v. 委派
+delegation|n.|代表团；委派 | The delegation ended their visit to China on March 30th. | delegate v. 委派
 behalf|n.|[on ~ of sb.]代表某人 | The president signed the document on behalf of the school. | on behalf of sb. / on sb's behalf 代表某人
 ---
 police|n.|警察 | His strange behaviour made the police suspicious. | call the police 叫警察 the police 警方
@@ -2832,7 +2832,7 @@ dominate|v.|支配；控制；占优势 | A great man can dominate others by for
 power|n.|能源；权力；政权；能力 | A preson should rely upon his or her own power. | powerful adj. 强有力的；强大的； rely v. 相信，依赖
 ---
 influence|n./v.|影响；作用/影响 | I was influenced by my teacher and chose to study science at college. | influential adj. 有影响力的，有优势的  have an influence on 对...产生影响
-affect|v.|影响；打动；使悲伤 | The disease affects the central central nervous system. | effect n. 影响，作用
+affect|v.|影响；打动；使悲伤 | The disease affects the central nervous system. | effect n. 影响，作用
 importance|n.|重要，重要性|The police officer emphasised the importance of careful driving|important adj. 重要的；有势力的。realise the importance 意识到重要性
 significance|n.|重要性；意义 | This fact has little significance for us. | significant adj. 有意义的，重要的  
 ---
@@ -2868,51 +2868,51 @@ crown|n./v.|王冠/为...加冕 | They crowed him shortly after the old king's d
 wreath|n.|花环；花冠；花圈 | A group of students placed a wreath at the tomb of the national hero. | tomb n. 坟墓
 ---
 colony|n.|殖民地 | Britain lost its American colonies in a revolution. | colonial 
-liberty|n.|自由
-independence|n.|独立；自立
+liberty|n.|自由 | Those prisoners are dreaming of liberty. | liberate v. 解放；使解脱；释放 the Statue of Liberty 自由女神像
+independence|n.|独立；自立 | The country attained its independence in 1972. | independent adj. 独立的；自主的； attain v. 获得
 ---
-slum|n.|贫民窟
-refuge|n.|避难；庇护；避难所
-asylum|n.|庇护；精神病院
+slum|n.|贫民窟 | I grew up in the East London slums | a slum area 贫民区
+refuge|n.|避难；庇护；避难所 | A small cave was the only refuge from the cold. | seek refuge 寻求庇护
+asylum|n.|庇护；精神病院 |  The terrorist tried to seek political asylum in that country. | an asylum seeker 寻求庇护的人
 ---
-population|n.|人口；人口数量
-demographic|adj.|人口的，人口统计的
-citizen|n.|公民；市民
-resident|n./adj.|居民；居住的
+population|n.|人口；人口数量 | There is a steady increase in population of this city.  | populate v. 居住于 control population 控制人口
+demographic|adj.|人口的，人口统计的 | I have no knowledge of demographic theory. | demography n. 人口统计学
+citizen|n.|公民；市民 | She is a lawful citizen.  | an ordinary citizen 普通公民
+resident|n./adj.|居民；居住的 | The residents of the town are proud of its new library. | residential adj. 住宅的，适合居住的
 ---
-ethnic|adj.|民族的；种族的|She is keen on ethnic dance|an ethnic minority 少数民族
-racial|adj.|种族的；人种的
-clan|n.|宗族；家族；帮派
+ethnic|adj.|民族的；种族的|She is keen on ethnic dance|an ethnic minority 少数民族 keen adj. 渴望的，热衷的
+racial|adj.|种族的；人种的 | A new law has been brought in to eliminate racial discrimination. | race n. 人种，种族 racial equality 种族平等 eliminate v. 排除 discrimination n. 歧视
+clan|n.|宗族；家族；帮派 | The whole clan will be here over Christmas | rival clans 敌对的家族
 ---
-franchise|v./n.|向…授予（或出售）特许经销权/特许权||the franchise 选举权
-entitle|v.|给...权力（或资格）；给...题名||be entitled to/do sth. 有获得某物/做某事的权利
-preference|n.|偏爱；优先权
+franchise|v./n.|向…授予（或出售）特许经销权/特许权|In Britain, women wer given the franchise in 1918.|the franchise 选举权
+entitle|v.|给...权力（或资格）；给...题名|This ticket entitles you to one-day admission to all three parks.|be entitled to/do sth. 有获得某物/做某事的权利 admission n. 允许进入
+preference|n.|偏爱；优先权 | A teacher should not show preference for any one of his or her students. | prefer v. 偏好
 ---
 vote|n./v.|选举权；投票/表决、投票|The vote will be held next month|vote against 投票反对
-elect|v.|选举；选择
-respondent|n.|（民意测验的）调查对象
-poll|n.|民意调查；选举投票；投票数
-ambition|n.|雄心；抱负
+elect|v.|选举；选择 | They organised a poll to elect a president. | elective adj. 选任的，由选举产生的； n. 选修课 election n. 选举；当选
+respondent|n.|（民意测验的）调查对象 | Only 34 percent of respondents said they were satisfied.
+poll|n.|民意调查；选举投票；投票数 | A public-opinion poll shows that most people see the protectionist policies negatively | carry out / conduct a poll 进行民意调查
+ambition|n.|雄心；抱负 | Her ambition was to be a famous politician | ambitious adj. 有雄心的；有野心的
 ---
-nominate|v.|报名；任命
-checklist|n.|清单；选民花名册
-succession|n.|连续；继承权；继位
+nominate|v.|报名；任命 | He has been nominated as Minister of Education. | nomination n. 提名；任命  nominate sb. for 提名某人为。。。的候选人
+checklist|n.|清单；选民花名册 | The guide contains a useful checklist of points to consider when buying a car.
+succession|n.|连续；继承权；继位 | He has been late for school three times in succession. | successive adj. 连续的 claim the succession 要求拥有继承权
 ---
-safety|n.|安全；安全场所
-welfare|n.|健康；幸福
-well-being|n.|康乐；安宁
-harmony|n.|协调；和谐；融洽；和声
-steady|adj.|稳定的；不摇晃的
+safety|n.|安全；安全场所 | They ran to safety, away from the fire. | personal safety  个人安全
+welfare|n.|健康；幸福 | In maaking this decision, the court's main concern is for the welfare of the children. | social welfare 社会福利
+well-being|n.|康乐；安宁 | To reduce public spending on the well-being of the citizens is an act of sheer folly. | sheer adj. 纯粹的 folly n. 愚蠢
+harmony|n.|协调；和谐；融洽；和声 | They worked in perfect harmony. | harmonica n. 口琴 in harmony with 与。。。和睦相处
+steady|adj.|稳定的；不摇晃的 | That ladder doesn't look very steady. | steadily adv. 平稳的；稳步地 a steady income 稳定的收入
 ---
-flourish|v.|繁荣；兴旺；茁壮成长
-succeed|v.|成功
-prospect|n.|希望；可能性；风景|There is not much prospect of his being elected as a congressman
-perspective|n.|景观；观点|We all have confidence in this new technology from a developmental perspective
+flourish|v.|繁荣；兴旺；茁壮成长 | Plants will not flourish without water. | flourishing adj. 繁荣的，兴旺的 flourish in rich soil 在肥沃的土壤中茁壮成长
+succeed|v.|成功 | If you work hard, you will succeed.| success n. 成功 successful adj. 成功的
+prospect|n.|希望；可能性；风景|There is not much prospect of his being elected as a congressman | prospective adj. 预期的，潜在的； enjoy the prospect 欣赏风景
+perspective|n.|景观；观点|We all have confidence in this new technology from a developmental perspective | 注意和prospective的区别
 ---
-viewpoint|n.|观点；看法；视角
-standpoint|n.|立场；立足点
-outlook|n.|观点；展望；前景
-guideline|n.|指导方针
+viewpoint|n.|观点；看法；视角 | I look at this problem from a different viewpoint. | viewpoint of life 
+standpoint|n.|立场；立足点 | We all look at things from a certain standpoint. | explain one's standpoint 解释某人的立场
+outlook|n.|观点；展望；前景 | The economic outlook is not very bright.  | change sb.'s outlook on life 改变某人的人生观
+guideline|n.|指导方针 | The hospital has issued new guidelines on the treatment of mentally ill patients. | follow the guidelines 遵循指导方针 mentally adj. 精神上
 ethic|n.|行为准则；ethics 道德规范，伦理标准|Merchants must observe their code of ethics|ethical adj. 道德的；伦理的。a work ~ 职业道德观
 ---
 suggest|v.|建议；暗示
