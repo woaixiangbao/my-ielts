@@ -2805,7 +2805,7 @@ banner|n.|横幅、标语 | Banners demanding an immediate ceasefire are flying 
 ---
 president|n.|总统；校长；董事长 | When the president of the company retired, the vice-president was elevated to his position. | elevate v. 提拔，提升
 premier|n./adj.|总理、首相/首要的，第一的 | The premier deals with important state affairs. | premiership n. 总理职位、首相职位
-minister|n.|部长；大臣；公使 | The minister can only cat in this matter with the sanction of parliament. | sanction n. 制裁；处罚；惩罚 Ministry n. （政府的）部门；（大学的）系、所
+minister|n.|部长；大臣；公使 | The minister can only act in this matter with the sanction of parliament. | sanction n. 制裁；处罚；惩罚 Ministry n. （政府的）部门；（大学的）系、所
 secretary|n.|秘书、书记员、大臣 | The new secretary is being lectured for the poor quality of her work. | employ a new secretary 雇佣新秘书
 ---
 parliament|n.|议会、国会 | He lost his seat in the Parliament at the election.
