@@ -2915,52 +2915,52 @@ outlook|n.|观点；展望；前景 | The economic outlook is not very bright.  
 guideline|n.|指导方针 | The hospital has issued new guidelines on the treatment of mentally ill patients. | follow the guidelines 遵循指导方针 mentally adj. 精神上
 ethic|n.|行为准则；ethics 道德规范，伦理标准|Merchants must observe their code of ethics|ethical adj. 道德的；伦理的。a work ~ 职业道德观
 ---
-suggest|v.|建议；暗示
-advise|v.|劝告；建议；通知
-proposal|n.|提议；建议
-hint|v./n.|暗示，提示
+suggest|v.|建议；暗示|I suggested he tackle the problem in another way. | suggestion n. 建议；暗示 tackle v. 处理，应对
+advise|v.|劝告；建议；通知 | She advises the government on economic affairs. | advice n. 建议 advisable adj. 明智的，可取的 advise sb. against smoking 劝某人不要吸烟 affair n. 事件
+proposal|n.|提议；建议 | The proposal of new terms for a peace treaty has been put forward. | propose v. 提议，建议
+hint|v./n.|暗示，提示 | When she said she was tired, it was a hint that she wanted us to leave. | give a hint 暗示，示意 take a hint 领会，明白
 ---
-declare|v.|宣布，宣告，宣称，声称
-affirm|v.|断言，坚持声称，证实
-claim|n./v.|声称；主张；索赔/声称；要求（拥有）
-proclaim|v.|声明；清楚的表明
+declare|v.|宣布，宣告，宣称，声称 | He declared that he would never come back again | declaration n. 宣言，宣布 declare for 声明赞成
+affirm|v.|断言，坚持声称，证实 | The suspect affirmed that he had been at home all day. | affirmative adj. 肯定的，同意的 affirm a veiw 证实某个观点
+claim|n./v.|声称；主张；索赔/声称；要求（拥有） | Every citzen may claim the protection of the law. | make a claim for 提出索取。。。的要求
+proclaim|v.|声明；清楚的表明 | His accent proclaimed that he was an American.
 ---
-state|v./n.|陈述；说明/国家，州，状况
-announce|v.|宣布，通知
-clarify|v.|澄清，阐明
+state|v./n.|陈述；说明/国家，州，状况 | Railways in Britain belong to the state. | statement n. 声明，陈述 state one's view 陈述某人的观点
+announce|v.|宣布，通知 | The government announced that they would build a new highway to that area. | announce sth. to sb. 对某人宣布某事
+clarify|v.|澄清，阐明 | The government has clarified its position on equal pay for women. | clarification n. 净化，澄清 clarify a situation 澄清情况
 ---
-assist|v.|帮助；协助
-aid|n.|救助；救援物资；辅助物
-encourage|v.|鼓励，激励，怂恿
+assist|v.|帮助；协助 | A team of nurses assisted the doctor in performing the operation | assistant n. 助手，助理 assist mutually 相互帮助
+aid|n.|救助；救援物资；辅助物 | An English-Chinese dictionary is an important aid in learning English. | first aid 急救 live on government aid 靠政府救济生活
+encourage|v.|鼓励，激励，怂恿 | Her success encouraged me to try the same thing | courage n. 勇气 encourage sb. in 在某方面鼓励某人 encourage sb. to do sth. 鼓励某人做某事
 ---
-implement|v./n.|实施；执行/工具；器具
-monitor|v./n.|监视；监听/监控器，监视器，班长
-admit|v.|供认，承认
+implement|v./n.|实施；执行/工具；器具 | The new policy on housing will be implemented next month. | implementation n. 执行 implement a plan 执行计划
+monitor|v./n.|监视；监听/监控器，监视器，班长 | The agents are monitoring the enemy's radio broadcasts to try to find out their secret plans | monitor closely  严密监视
+admit|v.|供认，承认 | He admitted to his father he had failed his driving test. | admission n. 承认；入场费；准许入场
 ---
-African|adj./n.|非洲的/非洲人
-European|adj./n.|欧洲的/欧洲人
-Latin|adj./n.|拉丁语的，拉丁人的/拉丁人，拉丁语
-Jewish|adj.|犹太教的，犹太人的
-Arabian|adj.|阿拉伯的
+African|adj./n.|非洲的/非洲人 | Many African people are very energetic and outgoing. | Africa n. 非洲 an African American 非裔美国人 energetic adj. 充满活力的；精力充沛的
+European|adj./n.|欧洲的/欧洲人 | The Japanese have taken in many European ways of life. | Europe n. 欧洲 euro  n. 欧元
+Latin|adj./n.|拉丁语的，拉丁人的/拉丁人，拉丁语 | Many languages have Latin as their origin. 
+Jewish|adj.|犹太教的，犹太人的 | Jewish people are scattered around the world. | scatter v. 散开
+Arabian|adj.|阿拉伯的 | Arabian Nights and Treasure Island are famous romances. 《天方夜谭》和《金银岛》是著名的传奇故事
 ---
-Portuguese|adj./n.|葡萄牙的/葡萄牙人，葡萄牙语
-Roman|adj./n.|罗马的/罗马人
-Russian|adj./n.|
-Spanish|adj./n.|
-Swiss|adj./n.|瑞士的/瑞士人
+Portuguese|adj./n.|葡萄牙的/葡萄牙人，葡萄牙语 | The Portuguese power in the East was on the wane. | wane v. 衰落
+Roman|adj./n.|罗马的/罗马人 | He wrote a storybook about ancient Romans.
+Russian|adj./n.|俄罗斯的 俄罗斯人的；俄语 | The limit of Russian endurance was reached. | endurance  n. 持久力，忍耐力
+Spanish|adj./n.| 西班牙的 西班牙语；西班牙人|French is a sister language of Spanish | Spain n. 西班牙
+Swiss|adj./n.|瑞士的/瑞士人 | The Swiss standard of living is very high. | Switzerland n. 瑞士
 ---
-Greek|adj./n.|
-Italian|adj./n.|
-soviet|adj./n.|苏联的/苏维埃
-Indian|adj./n.|
+Greek|adj./n.| 希腊的 希腊人；古希腊人；希腊语；古希腊与 | The chef is not interested in Greek food. | Greece n. 希腊
+Italian|adj./n.| 意大利的 意大利人 意大利语 | Italian pizza is very pupular in China. | Italy n. 意大利
+soviet|adj./n.|苏联的/苏维埃 | The Soviet Union was a major power on the Eurasian continent. 
+Indian|adj./n.| 印度的 印度人 | To an Indian, the owl is a symbol of bad luck. | India n. 印度
 ---
-Australia|n.|澳大利亚
-New Zealand|n.|
-Canada|n.|
+Australia|n.|澳大利亚 | Australia is the hometown of kangaroos.  | Australian adj. 澳大利亚的 n. 澳大利亚人 
+New Zealand|n.| 新西兰 | Oceania is mainly made up of Australia and New Zealand.
+Canada|n.| 加拿大 | The maple leaf is the emblem of Canada. | Canadian adj. 加拿大的 n. 加拿大人
 ---
-Britain|n.|
-France|n.|
-Germany|n.|
+Britain|n.| 不列颠 | The United Kingdom consists of Great Britain and Northern Ireland. | British adj. 英国的；英国人的 n. 英国人
+France|n.| 法国 | The English Channel divides England from France. | French n. 法语 adj. 法国人的；法国的；法语的
+Germany|n.| 德国 | I need to buy a round-trip ticket to Germany. | German n. 德国人 德语 adj. 德国的
 ===
 社会经济
 +++
