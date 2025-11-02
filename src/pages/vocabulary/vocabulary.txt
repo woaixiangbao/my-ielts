@@ -2967,7 +2967,7 @@ Germany|n.| 德国 | I need to buy a round-trip ticket to Germany. | German n. �
 economy|n.|经济；节约 | As the war debt lightened, the economy of the country developed quickly. | economic adj. 经济的，经济上的 economical adj. 节约的，实惠的 economics n. 经济学
 trade|n./v.|贸易/交换 | China market is experiencing 
 market|n.|市场；市场需求 | The market is experiencing depression at the moment.
-industry|n.|工业；产业；勤劳
+industry|n.|工业；产业；勤劳 | The conference underscored the importance of modern industry. | industrialise v. 使工业化 industrial adj. 工业的；产业的 heavy industry 重工业
 ---
 merchant|n./adj.|商人/商业的
 financial|adj.|财政的；金融的
