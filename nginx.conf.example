@@ -1,0 +1,28 @@
+# Nginx 配置文件示例（用于 NAS 部署）
+server {
+    listen 80;
+    server_name your-nas-ip-or-hostname;
+
+    # 站点根目录（根据你的 NAS 实际路径修改）
+    root /volume1/web/my-ielts;
+    index index.html;
+
+    # 启用 gzip 压缩
+    gzip on;
+    gzip_types text/plain text/css application/json application/javascript text/xml application/xml application/xml+rss text/javascript;
+
+    # 静态资源缓存
+    location ~* \.(jpg|jpeg|png|gif|ico|css|js|svg|woff|woff2|ttf|eot|mp3|mp4)$ {
+        expires 30d;
+        add_header Cache-Control "public, immutable";
+    }
+
+    # Hash 路由模式下，所有路径都返回 index.html
+    location / {
+        try_files $uri $uri/ /index.html;
+    }
+
+    # 如果文件不存在，返回 404.html（如果有）
+    error_page 404 /404.html;
+}
+

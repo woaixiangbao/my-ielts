@@ -2819,7 +2819,7 @@ behalf|n.|[on ~ of sb.]代表某人 | The president signed the document on behal
 ---
 police|n.|警察 | His strange behaviour made the police suspicious. | call the police 叫警察 the police 警方
 statesman|n.|政治家 | He will go down in history as a great statesman.
-mayor|n.|市长 | A mayor is determined to clean up the city.
+mayor|n.|市长 | The mayor is determined to clean up the city.
 ---
 service|n.|服务 | The volunteers for community service are doing a good job. | at sb's service 可供某人使用
 office|n.|办公室；要职；官职；[Office]部、局、厅 | Now he holds office in the Foreign Ministry. | come into office 上任，就职
@@ -2964,8 +2964,8 @@ Germany|n.| 德国 | I need to buy a round-trip ticket to Germany. | German n. �
 ===
 社会经济
 +++
-economy|n.|经济；节约
-trade|n./v.|贸易/交换
+economy|n.|经济；节约 | As the war debt lightened, the economy of the country developed quickly. | economic adj. 经济的，经济上的 economical adj. 节约的，实惠的 economics n. 经济学
+trade|n./v.|贸易/交换 | China market is experiencing 
 market|n.|市场；市场需求
 industry|n.|工业；产业；勤劳
 ---
