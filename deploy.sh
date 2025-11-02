@@ -12,7 +12,7 @@ set -euo pipefail
 # ==== 基本配置 ====
 APP_DIR="$(cd "$(dirname "$0")" && pwd)"      # 当前仓库目录
 PNPM_STORE="/volume1/docker/.pnpm-store"      # 依赖缓存目录（可选）
-BRANCH="main"                                # 你的默认分支（若是 master 请改这里）
+BRANCH="master"                                # 你的默认分支（若是 master 请改这里）
 CONTAINER_NAME="my-ielts"                    # Nginx 容器名称
 
 cd "$APP_DIR"
