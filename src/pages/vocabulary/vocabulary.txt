@@ -95,7 +95,7 @@ deteriorate|v.|恶化；变坏
 aggravate|v.|加重；加剧；使恶化
 degrade|v.|降解；降低...身份；使恶化；使退化
 upgrade|v.|使升级；提高；改善
-erode|v.|侵蚀；腐蚀|The waves erode the rocks on the shore|erosion n. 侵蚀；腐蚀
+erode|v.|侵蚀；腐蚀; 削弱，降低|The waves erode the rocks on the shore|erosion n. 侵蚀；腐蚀
 ---
 Mediterranean|adj./n.|地中海的；地中海地区的；地中海；地中海地区
 Atlantic|n.|大西洋
@@ -2786,7 +2786,7 @@ hierarchy|n.|等级制度；统治集团 | There is a rigid hierarchy of power i
 ---
 democracy|n.|民主、民主制度；民主国家 | The military government promised to restore democracy within one year. | military adj. 军事的，军队的；n. 军人，军方
 bureaucracy|n.|官僚主义；官僚作风 | The government promised to reorganise the bureaucracy. | bureaucratism n. 官僚主义
-egalitarian|adj./n.|平等主义的/平等主义者 | Clearly, the egalitarian society remains a dream. 
+egalitarian|adj./n.|平等主义的/平等主义者 | Clearly, the egalitarian society remains a dream.
 materialism|n.|唯物主义；唯物论 | Both of them believed in Marxism and materialism. | material n. 物质；素材；材料
 ---
 revolution|n.|革命；巨大变化 | The invention of aircraft caused a revolution in our ways of travelling.
@@ -2795,7 +2795,7 @@ process|n./v.|过程；进程/处理；加工；列队前进 | They went over ev
 conservative|adj./n.|保守的/保守党员 | The researchers made a conservative estimation of the population of New Delhi. | Conservative Party 保守党
 meltdown|n.|堆芯熔毁；崩溃 | The commentator sees a bright side to the financial meltdown. | commentator n. 评论员；实况解说员；现场解说员
 ---
-municipal|adj.|市政的，地方政府的 | He went to a municipal university. 
+municipal|adj.|市政的，地方政府的 | He went to a municipal university.
 neutral|adj.|中立的；中立国的 | She is neutral in this argument and doesn't care who wins. | neutrally adv. 中立地； remain neutral 保持中立
 bilateral|adj.|双边的 | They have signed a bilateral peace treaty. | a bilateral agreement 双边协定
 ---
@@ -2834,7 +2834,7 @@ power|n.|能源；权力；政权；能力 | A preson should rely upon his or he
 influence|n./v.|影响；作用/影响 | I was influenced by my teacher and chose to study science at college. | influential adj. 有影响力的，有优势的  have an influence on 对...产生影响
 affect|v.|影响；打动；使悲伤 | The disease affects the central nervous system. | effect n. 影响，作用
 importance|n.|重要，重要性|The police officer emphasised the importance of careful driving|important adj. 重要的；有势力的。realise the importance 意识到重要性
-significance|n.|重要性；意义 | This fact has little significance for us. | significant adj. 有意义的，重要的  
+significance|n.|重要性；意义 | This fact has little significance for us. | significant adj. 有意义的，重要的
 ---
 organization/organisation|n.|组织；团体；机构 | They have established a student organisation . | organise(=organize) v. 组织，安排
 association|n.|协会；团体；关联 | Have you ever joined the parent-teacher association? | associate v. 联想，联系
@@ -2861,13 +2861,13 @@ civil|adj.|公民的；国内的；民用的；斯文的 | Gone with the Wind, a
 emigrate|v.|移居国外 | They did not receive the permission to emigrate to the United States. | emigration n. 移居国外
 immigrate|v.|（从外地）移居；移入 | Many British colonists immigrated to the New World.| colonist n. 殖民者 immigration n. 移居（入境） immigrant n. 移民
 ---
-reign|n./v.|君主统治的时期/统治 | The reign of Queen Victoria lasted more than sixty years. 
+reign|n./v.|君主统治的时期/统治 | The reign of Queen Victoria lasted more than sixty years.
 puppet|n.|玩偶；傀儡 | Are we the puppets of fate? | fate n. 命运 a puppet government 傀儡政府
 throne|n.|王位；宝座 | He was only eight when he ascended the throne. | ascend v. 攀登，登上 come to the throne 即位，登基
 crown|n./v.|王冠/为...加冕 | They crowed him shortly after the old king's death. | succeed to the crown 继承王位
 wreath|n.|花环；花冠；花圈 | A group of students placed a wreath at the tomb of the national hero. | tomb n. 坟墓
 ---
-colony|n.|殖民地 | Britain lost its American colonies in a revolution. | colonial 
+colony|n.|殖民地 | Britain lost its American colonies in a revolution. | colonial
 liberty|n.|自由 | Those prisoners are dreaming of liberty. | liberate v. 解放；使解脱；释放 the Statue of Liberty 自由女神像
 independence|n.|独立；自立 | The country attained its independence in 1972. | independent adj. 独立的；自主的； attain v. 获得
 ---
@@ -2909,7 +2909,7 @@ succeed|v.|成功 | If you work hard, you will succeed.| success n. 成功 succe
 prospect|n.|希望；可能性；风景|There is not much prospect of his being elected as a congressman | prospective adj. 预期的，潜在的； enjoy the prospect 欣赏风景
 perspective|n.|景观；观点|We all have confidence in this new technology from a developmental perspective | 注意和prospective的区别
 ---
-viewpoint|n.|观点；看法；视角 | I look at this problem from a different viewpoint. | viewpoint of life 
+viewpoint|n.|观点；看法；视角 | I look at this problem from a different viewpoint. | viewpoint of life
 standpoint|n.|立场；立足点 | We all look at things from a certain standpoint. | explain one's standpoint 解释某人的立场
 outlook|n.|观点；展望；前景 | The economic outlook is not very bright.  | change sb.'s outlook on life 改变某人的人生观
 guideline|n.|指导方针 | The hospital has issued new guidelines on the treatment of mentally ill patients. | follow the guidelines 遵循指导方针 mentally adj. 精神上
@@ -2939,7 +2939,7 @@ admit|v.|供认，承认 | He admitted to his father he had failed his driving t
 ---
 African|adj./n.|非洲的/非洲人 | Many African people are very energetic and outgoing. | Africa n. 非洲 an African American 非裔美国人 energetic adj. 充满活力的；精力充沛的
 European|adj./n.|欧洲的/欧洲人 | The Japanese have taken in many European ways of life. | Europe n. 欧洲 euro  n. 欧元
-Latin|adj./n.|拉丁语的，拉丁人的/拉丁人，拉丁语 | Many languages have Latin as their origin. 
+Latin|adj./n.|拉丁语的，拉丁人的/拉丁人，拉丁语 | Many languages have Latin as their origin.
 Jewish|adj.|犹太教的，犹太人的 | Jewish people are scattered around the world. | scatter v. 散开
 Arabian|adj.|阿拉伯的 | Arabian Nights and Treasure Island are famous romances. 《天方夜谭》和《金银岛》是著名的传奇故事
 ---
@@ -2951,10 +2951,10 @@ Swiss|adj./n.|瑞士的/瑞士人 | The Swiss standard of living is very high. |
 ---
 Greek|adj./n.| 希腊的 希腊人；古希腊人；希腊语；古希腊与 | The chef is not interested in Greek food. | Greece n. 希腊
 Italian|adj./n.| 意大利的 意大利人 意大利语 | Italian pizza is very pupular in China. | Italy n. 意大利
-soviet|adj./n.|苏联的/苏维埃 | The Soviet Union was a major power on the Eurasian continent. 
+soviet|adj./n.|苏联的/苏维埃 | The Soviet Union was a major power on the Eurasian continent.
 Indian|adj./n.| 印度的 印度人 | To an Indian, the owl is a symbol of bad luck. | India n. 印度
 ---
-Australia|n.|澳大利亚 | Australia is the hometown of kangaroos.  | Australian adj. 澳大利亚的 n. 澳大利亚人 
+Australia|n.|澳大利亚 | Australia is the hometown of kangaroos.  | Australian adj. 澳大利亚的 n. 澳大利亚人
 New Zealand|n.| 新西兰 | Oceania is mainly made up of Australia and New Zealand.
 Canada|n.| 加拿大 | The maple leaf is the emblem of Canada. | Canadian adj. 加拿大的 n. 加拿大人
 ---
@@ -2965,96 +2965,96 @@ Germany|n.| 德国 | I need to buy a round-trip ticket to Germany. | German n. �
 社会经济
 +++
 economy|n.|经济；节约 | As the war debt lightened, the economy of the country developed quickly. | economic adj. 经济的，经济上的 economical adj. 节约的，实惠的 economics n. 经济学
-trade|n./v.|贸易/交换 | China market is experiencing 
+trade|n./v.|贸易/交换 | China market is experiencing
 market|n.|市场；市场需求 | The market is experiencing depression at the moment.
 industry|n.|工业；产业；勤劳 | The conference underscored the importance of modern industry. | industrialise v. 使工业化 industrial adj. 工业的；产业的 heavy industry 重工业
 ---
-merchant|n./adj.|商人/商业的
-financial|adj.|财政的；金融的
-fund|v./n.|资助/基金；资金
-donate|v.|捐款；捐献
-endow|v.|捐赠；赋予
+merchant|n./adj.|商人/商业的 | The merchant decided to use camels to carry his goods across the desert. | a retail merchant 零售商
+financial|adj.|财政的；金融的 | Southeast Asia's financial crisis taught people an important lesson. | finance n. 金融；财政
+fund|v./n.|资助/基金；资金 | The research is funded by the government.| raise funds 筹集资金
+donate|v.|捐款；捐献 | The government calls on the youth to donate their blood voluntarily.| donation n. 捐赠，捐献
+endow|v.|捐赠；赋予 | She is endowed with great writing ability. | endowment n. 捐赠，捐款；天赋
 ---
-commercial|adj./n.|商业的/商业广告
-advertise|v.|做广告
-slogan|n.|标语；口号
+commercial|adj./n.|商业的/商业广告 | The downtown area is zoned for commercial use. | commercialise v. 使商业化
+advertise|v.|做广告 | We advertised in the local press | adevrtisement n. 广告 advertising n. 广告活动，广告业
+slogan|n.|标语；口号 | The advertising slogan was a play on words. | shout slogans 喊口号
 ---
-purchase|n./v.|购买
-lease|n./v.|租约/出租；租用
-afford|v.|负担得起；提供；给予
+purchase|n./v.|购买 | The new couple spent some money for the purchase of the furniture necessary for their new house. | purchase by 通过。。。换取
+lease|n./v.|租约/出租；租用 | We will lease you the house for one year. | leaseholder n. 租赁人
+afford|v.|负担得起；提供；给予 | I couldn't afford the rent on my own. | affordable adj. 买得起
 ---
-retail|n./v.|零售/以...价格零售
-chain|n.|一连串；连锁店
-grocery|n.|食品杂货店
+retail|n./v.|零售/以...价格零售 | These slippers retail at 10 dollars per pair. | retailing n. 零售业 retailer n. 零售商  a retail outlet 零售店
+chain|n.|一连串；连锁店 | The strike may produce a chain reaction in other industries.
+grocery|n.|食品杂货店 | Her mother began to operate a small grocery.
 ---
-discount|n./v.|折扣/打折出售
-promotion|n.|促销活动；晋升
-voucher|n.|代金券
-coupon|n.|优惠券
+discount|n./v.|折扣/打折出售 | I'll sell at a discount in return for a speedy sale. | discounter n. 折扣商店， 廉价商店 a 20% discount 八折 a discount from the price list 在价目表的基础上享受折扣
+promotion|n.|促销活动；晋升 | Last year's sales promotions were quite successful. | promote v. 促销；晋升；促进
+voucher|n.|代金券 | The voucher can be used at most major cinemas.
+coupon|n.|优惠券 | I have a coupon for 30% off any dairy product in the supermarket.
 ---
-currency|n.|货币；通用，流行
-exchange|n.|交换；兑换
-swap/swop|v./n.|交换
-receipt|n.|收据；收到
-invoice|n./v.|发票/开发票给
+currency|n.|货币；通用，流行 | Our currency will not depreciate. | change foreign currency 兑换外币 issue currency发行货币 depreciate v. 贬值
+exchange|n.|交换；兑换 | It seems the exchange rate fluctuates almost daily. | fluctuate v. 波动；起伏 a academic exchange 学术交流 foreign exchange 外汇
+swap/swop|v./n.|交换 | She swapped her watch for an antique locket. | locket
+receipt|n.|收据；收到 | When you have paid for something, a receipt is given to you. | receive v. 接收，收到 make out a receipt 开收据
+invoice|n./v.|发票/开发票给 | The seller issued an invoice for the goods.
 ---
-tax|n./v.|税/对...征税
-levy|n./v.|税款/征收
-tariff|n.|关税；（公共服务的）收费
-duty|n.|职责；义务；关税
-impose|v.|强加；征收（书款）
+tax|n./v.|税/对...征税| Government don't tax children | taxation n. 征税；税  tax heavily 征收重税
+levy|n./v.|税款/征收 | The government has decided to levy a tax on imported cars. | impose a levy on sth. 对某物征税
+tariff|n.|关税；（公共服务的）收费 | There is a very high tariff on alcohol.
+duty|n.|职责；义务；关税 | I fell it my duty to speak frankly to you.| dutiable adj. 应纳税的 be exempt from duty 免除关税
+impose|v.|强加；征收（书款） | She often imposed her values on her daughter. 她常常把自己的价值观强加给女儿 | impose a penalty 处以罚金 impose a tax 征税
 ---
-consume|v.|消耗，吃，喝
-spend|v./n.|花费/开支
-cost|v./n.|需付费/费用；代价；成本
+consume|v.|消耗，吃，喝 | Chinese people consume huge amounts of rice every year. | consumption n. 消费；消耗量；吃；喝
+spend|v./n.|花费/开支 | The time I spend in commuting every day adds up to two hours. | commuting v. 乘公交车上下班 spend time/money on sth. 在某事物上花费时间/金钱
+cost|v./n.|需付费/费用；代价；成本 | I'm determined to attain my purpose at any cost. | costly adj. 昂贵的 cost-effective adj. 划算的 at a cost of 付出...的代价 the cost of living 生活费用
 ---
-expense|n.|费用；花费
-revenue|n.|（公司、组织的）收入；（政府的）税收
-gross|adj.|总的；毛的
+expense|n.|费用；花费 | Societies should try to save every plant and animal species regardless of the expense. | expensive adj. 昂贵的
+revenue|n.|（公司、组织的）收入；（政府的）税收 | State universites in the U.S. get most of their revenue from taxes.| a revenue office 税务员 tax revenue 税收
+gross|adj.|总的；毛的 | GDP stands for Gross Domestic Product. | Gross National Product （GNP）国民生产总值
 ---
-recession|n.|经济衰退
-depression|n.|沮丧；消沉；萧条期；不景气
-crisis|n.|危机
+recession|n.|经济衰退 | This country was in a deep economic recession. | recess v. 暂停，休会
+depression|n.|沮丧；消沉；萧条期；不景气 | A holiday may help him cope with feelings of depression. | cope v. 对付 depress v. 使沮丧；使萧条
+crisis|n.|危机 | They suffered huge losses in the financial crisis. | aggravate a crisis 加深危机 avert a crisis 防止危机 cause a crisis 引起危机 ease a crisis 缓和危机
 ---
-security|n.|安全工作；安全；[securities]证券|
-bond|n.|债券
-debt|n.|债务
+security|n.|安全工作；安全；[securities]证券| The government looks after the security of the country. | The Security Council(联合国)安全理事会
+bond|n.|债券 | A company issues a bond to collect money and will pay back with interest. | interest n. 利息
+debt|n.|债务 | Liabilities are the debt or obligation that a businessman must pay in money or services at some time in the future. | clear a debt 还清债 owe sb. a debt 欠某人一笔债
 ---
-deficit|n.|赤字；逆差
-inflation|n.|通货膨胀
-deflation|n.|通货紧缩
+deficit|n.|赤字；逆差 | The current trade deficit indicates a serious imbalance between our imports and exports.
+inflation|n.|通货膨胀 | Inflation erodes the purchasing power of the families with lower income.| erode v. 削弱，降低
+deflation|n.|通货紧缩  | Deflation and financial distress stifled economic growth. | stifle v. 抑制
 ---
-dwindle|v.|缩小；减少
-decrease|n./v.|减少；减小/（使）减少；（使）减小
-downsize|v.|使精简；裁员
+dwindle|v.|缩小；减少 | The number of people going to the bookstores seems to dwindle steadily. | dwindle away 渐渐减少
+decrease|n./v.|减少；减小/（使）减少；（使）减小 | Her interest in this subject gradually decreases. | gradually adv. 逐步地，逐渐地
+downsize|v.|使精简；裁员 | The factory has to downsize and more fully utilise the remaining workers. | utilise vt. 使用，利用
 ---
-decline|v./n.|下降
-diminish|v.|减少；贬低
-reduce|v.|减少，减小
+decline|v./n.|下降 | There is a sharp decline in unemployment. | declination n. 倾斜；背离； decline steadily 逐渐下降 moral decline 道德水准下降
+diminish|v.|减少；贬低 | We should try to diminish the cost of production. | diminution n. 减少
+reduce|v.|减少，减小 | The prices in the shop have been reduced, so it's a good time to buy. | reduction n. 减少，降低
 ---
-increase|n./v.|增加，增长/（使）增加，（使）增长
-increment|n.|增加量；定期加薪
-growth|n.|增长；生长
+increase|n./v.|增加，增长/（使）增加，（使）增长 | His employer has increased his salary.| increasing adj. 日益增加的
+increment|n.|增加量；定期加薪 | Your salary will be $12000 a year, with annual increment of $500. | yearly / annual increment 年增长量
+growth|n.|增长；生长 | Cold weather constrained the plant's growth.  | considerable growth 相当大的增长 gradual growth 逐步增长  constrain v. 限制，约束 constraint n. 限制
 ---
-escalate|v.|（使）逐步升级；（使）不断恶化
-expand|v.|扩充；扩大；扩展
-influx|n.|流入，涌进||influx of capital 资本的涌进
+escalate|v.|（使）逐步升级；（使）不断恶化 | The cost of living is escalating in the country.
+expand|v.|扩充；扩大；扩展 | Metals expand when they are heated | expansive adj. 广阔的；扩张的；豪爽的 expand contact 扩大交往 expand influence 扩大影响
+influx|n.|流入，涌进|The country simply cannot handle this influx of refugees.|influx of capital 资本的涌进 refuge n. 避难
 ---
-affluent|adj.|富裕的；富足的
-enrich|v.|使富有；充实
-sufficient|adj.|足够的||insufficient adj. 不足的
-adequate|adj.|足够的；合格的
+affluent|adj.|富裕的；富足的 | We live in an affluent society.
+enrich|v.|使富有；充实 | Giving much to the poor will enrich a man's store. | enrichment n. 丰富；充实 enrich the brain/mind 充实头脑/心灵
+sufficient|adj.|足够的|We must work hard, but equally we must get sufficient rest. |insufficient adj. 不足的
+adequate|adj.|足够的；合格的 | We had adequate food for a week's journey. | inadequate adj. 不够格的；不充分的
 ---
-spare|adj./v.|多余的；空闲的/剩余
-saving|n.|节约；节省
-redundant|adj.|多余的；被裁减的
-lack|n./v.|缺乏；不足/缺少；没有
+spare|adj./v.|多余的；空闲的/剩余 | If you have a spare bed, may I stay tonight? | spare no effort in doing sth 不遗余力地做某事 spare time 空闲时间
+saving|n.|节约；节省 | A saving of 20% is obtainable under this scheme.
+redundant|adj.|多余的；被裁减的 | During the financial crisis, many workers were made redundant. | redundancy n. 裁员 a redundant worker 被裁的职工
+lack|n./v.|缺乏；不足/缺少；没有 | Serious lack of circulating funds forced the closure of the company | lack of 缺少
 ---
-company|n.|公司；陪伴；剧团||keep sb. company 陪伴某人
-firm|n./adj.|公司/坚定的；坚固的
-enterprise|n.|企业；事业
-agent|n.|代理人，代理商
-entity|n.|实体，独立存在物
+company|n.|公司；陪伴；剧团|The company has connections with a number of Canadian firms. |keep sb. company 陪伴某人
+firm|n./adj.|公司/坚定的；坚固的 | Because of their common values, they soon formed a firm friendship. | firm faith 坚定的信念
+enterprise|n.|企业；事业 | They are involved in an exciting scientific enterprise. | scientific adj. 科学的，与科学有关的 enterpreneur n. 企业家
+agent|n.|代理人，代理商 | The travel agent has made all the reservations for my journey. | sole agent 独家代理商
+entity|n.|实体，独立存在物 | The country is no longer a sovereign entity.| a business entity 企业实体 an economic entity 经济实体 sovereign adj.有主权的
 ---
 invest|v.|投资；投入
 input|n.|输入信息；投入物
