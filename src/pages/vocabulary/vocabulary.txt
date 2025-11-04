@@ -3056,73 +3056,73 @@ enterprise|n.|企业；事业 | They are involved in an exciting scientific ente
 agent|n.|代理人，代理商 | The travel agent has made all the reservations for my journey. | sole agent 独家代理商
 entity|n.|实体，独立存在物 | The country is no longer a sovereign entity.| a business entity 企业实体 an economic entity 经济实体 sovereign adj.有主权的
 ---
-invest|v.|投资；投入
-input|n.|输入信息；投入物
-product|n.|产品；产物
+invest|v.|投资；投入|The state has planned to invest two million in the dam | investment n. 投资 investor n. 投资者 invest in sth. 在某方面投资
+input|n.|输入信息；投入物|We must increase the output with less labour input | output n. 输出量，产量
+product|n.|产品；产物 | A series of technical issues delayed the launch of the new product.
 ---
-acquisition|n.|获得；（对公司的）并购
-goods|n.|商品；货物
-cargo|n.|货物
+acquisition|n.|获得；（对公司的）并购 | The acquisition of knowledge is a social activity. | the acquisition of a fortune 获得一笔财富
+goods|n.|商品；货物 | You give me the money and I'll give you the goods.
+cargo|n.|货物 | The ship is discharging the cargo. 
 ---
-insure|v.|确保；给...上保险
-guarantee|v./n.|担保；确保/保证；保修单；担保金；担保物
-reliable|adj.|可靠的，可信赖的
+insure|v.|确保；给...上保险 | His talent and commitment will insure his success. | insurance n. 保险 commitment n. 投入，热情
+guarantee|v./n.|担保；确保/保证；保修单；担保金；担保物 |  They offer a two-year guarantee on all their household appliances. | a bank guarantee 银行担保 a credit guarantee 信贷担保
+reliable|adj.|可靠的，可信赖的 | It's not reliable to judge a man only by his looks.  | rely v. 依靠 reliance n. 依靠，依赖 unreliable adj. 不可靠的
 ---
-negotiation|n.|谈判，协商
-attend|v.|参加，出席
-absent|adj.|缺席的；不在场的；心不在焉的
+negotiation|n.|谈判，协商 | We are satisfied with the smoothness of the negotiation. | negotiate v. 谈判，协商
+attend|v.|参加，出席 | A large number of people attended her birthday party. | attendance n. 出席的人数；出席
+absent|adj.|缺席的；不在场的；心不在焉的 | Daniel was absent from the house all the next day. | absence n. 缺席；缺乏 absent-minded adj. 健忘的 be absent from 不在（某处）
 ---
-sale|n.|买；销售；销售额
-wholesale|n.| 批发
-auction|v./n.|拍卖
-bid|v./n.|出价；投标
+sale|n.|买；销售；销售额 | The store discounted all air conditioners for sale. | salesman n. 售货员, 推销员 sell v. 卖，销售 seller n. 卖者，销售方
+wholesale|n.| 批发 | These wholesale dealers earned a large sum of money. 
+auction|v./n.|拍卖 | His house was sold at an auction | auction price 拍卖价格 put sth. up for auction 将某物交付拍卖
+bid|v./n.|出价；投标 | They lost the contract because their bid was too high. | bidder n. 投标者；出价者
 ---
-deal|v./n.|买卖；[~ with]处理；应付/协议；交易；大量
-transaction|n.|（一笔）交易；业务
-turnover|n.|（人员的）流动率；营业额
-dump|v.|丢弃；倾倒；倾销
+deal|v./n.|买卖；[~ with]处理；应付/协议；交易；大量 | I'll deal with the children later. | make a deal with 跟。。。达成交易 a good/great deal of 很多，相当多的
+transaction|n.|（一笔）交易；业务 | Because sellers and buyers manage business transactions, it leads companies to keeping in touch with customers.
+turnover|n.|（人员的）流动率；营业额 | Annual turnover is about 800 million pounds.
+dump|v.|丢弃；倾倒；倾销 | Some people just dump their rubbish in the river. | dump into 向。。。倾销
 ---
-export|v./n.|出口/出口；出口商品
-import|v./n.|进口/进口；进口商品
-quota|n.|限额；配额；定额
+export|v./n.|出口/出口；出口商品 | Oil has supplanted coffee as our man export. | supplant v. 取代，代替
+import|v./n.|进口/进口；进口商品 | We import a huge amount of produce from other countries every year. | import from 从。。。进口 import duty 进口税
+quota|n.|限额；配额；定额 | The committee reversed its decision on the import quota. | committee n. 委员会 reverse n. 撤销
 ---
-share|n./v.|股份，股票；一份/分享；共享；分担
-benefit|n./v.|益处/有利于；获益
-interest|n./v.|兴趣；利益；利息/使感兴趣
-dividend|n.|股息；红利
-stock|n.|股本；股票；库存
+share|n./v.|股份，股票；一份/分享；共享；分担 | He has put all his money in stocks and shares. | buy shares 购买股票 hold shares 持有股票 share dealing 股票交易 market share 市场份额
+benefit|n./v.|益处/有利于；获益 | A large number of students will benefit from the new teaching method. | beneficial adj. 有利的，有益的 benefit from 得益于
+interest|n./v.|兴趣；利益；利息/使感兴趣 | You must pay interest on that loan.
+dividend|n.|股息；红利 | The company declared a large dividend at the end of the year. | pay dividends 产生效益
+stock|n.|股本；股票；库存 | All stock prices have jumped up this month. | stockbroker n. 股票（或证券）经纪人 stockholder n. 股东，持股人
 ---
-account|n.|账户；解释
-deposit|n.|存款；押金
-instalment/installment|n.|（分期付款的）一期付款
-cheque/check|n.|支票
+account|n.|账户；解释 | Have you got a bank account | accountable adj. 有责任的 accounting n. 会计；记账 account balance 账户余额 on account 以赊账方式
+deposit|n.|存款；押金 | The interest of the current account is lower than that of the deposit account. | bank deposit 银行存款
+instalment/installment|n.|（分期付款的）一期付款 | Buying goods in instalments has become an epidemic in recent years.
+cheque/check|n.|支票 | The bank cashed my cheque.银行兑现了我的支票 | cash a cheque 兑现支票 write/sign a cheque 开/签支票 dishonour a cheque 拒绝兑现支票
 ---
-cash|n./v.|现金/兑现（支票）
-coin|n./v.|硬币/铸币；创造（新词语）
-shilling|n.|先令
-copper|n.|铜；[~s]铜币；警察||cop n. 警察
+cash|n./v.|现金/兑现（支票） | He paid for the meal in cash. | pay cash 付现金
+coin|n./v.|硬币/铸币；创造（新词语） | We'd better not coin terms which are not intelligible. 我们最好不要造一些别人不容易懂的词语 | coiner n. 创造新词语的人；铸硬币的人
+shilling|n.|先令 | Five pence was equal to a shilling. 
+copper|n.|铜；[~s]铜币；警察|He polished up the old copper coins. |cop n. 警察  polish v. 擦亮 coppery adj. 似铜的，紫铜色的
 ---
-treasure|n.|金银财宝；宝物；珍品
-wealth|n.|财富；丰富
-estate|n.|地产；遗产
+treasure|n.|金银财宝；宝物；珍品 | This museum has many art treasures. | treasury n. 财政部；宝库 a national treasure 国宝
+wealth|n.|财富；丰富 | Health is better than wealth. | wealthy adj. 富有的 accumulate wealth 积聚财富 add to wealth 增加财富
+estate|n.|地产；遗产 | The old lady left an estate of three million pounds when she died. | real estate n. 房地产
 ---
-possess|v.|占用；拥有；影响；控制
-legacy|n.|遗赠；遗产
-descend|v.|下降，下来
+possess|v.|占用；拥有；影响；控制 | She was possessed by the desire to be rich | possessive adj. 占有欲强的；自私的 possession n. 个人财产；拥有 possessor n. 持有人
+legacy|n.|遗赠；遗产 | The girl received a small legacy from her aunt. 
+descend|v.|下降，下来 | She is said to be descended from a French aristocratic family. 据说，她是法国贵族的后裔 | aristocratic adj. 贵族的
 ---
-worthy|adj.|有价值的
-valuable|adj.|很值钱的；贵重的；很重要的
-cheap|adj.|廉价的；质劣价低的
+worthy|adj.|有价值的 | This book is worthy of reading. | worthless adj. 无价值的，无用的
+valuable|adj.|很值钱的；贵重的；很重要的 | His wife put on her valuable ring and necklace. | value n. 价值 valuation n. 评价；估价
+cheap|adj.|廉价的；质劣价低的 | Cheap shoes soon wear out. | cheaply adv. 便宜地，廉价地 cheapskate n. 小气鬼，守财奴
 ---
-incentive|n.|刺激；激励
-accelerate|v.|加速
-prompt|v./adj.|促使/迅速的
+incentive|n.|刺激；激励 | Incentives differ from country to country and region to region  | an incentive to 激励。。。的措施 
+accelerate|v.|加速 | Good economic policies can accelerate the economic growth of a society. | decelerate v. （使）减速
+prompt|v./adj.|促使/迅速的 | What prompted you to do such a thing  | promptly adv. 立即
 ---
-salary|n.|工资；（按月领的）薪水
-income|n.|收入
-wage|n.|（通常指按周领的）工钱
+salary|n.|工资；（按月领的）薪水 | She was employed with a salary of 3000 dollars a month.  | get/receive a salary 获取薪水
+income|n.|收入 | Many staff members made an accusation that the earned incomes were not distributed upon the principle of equality. | accusation n. 控告，指责 distribute v. 分配
+wage|n.|（通常指按周领的）工钱 | These workers demanded a wage rise of 5%
 ---
-payment|n.|支付；支付的款项；付款额
+payment|n.|支付；支付的款项；付款额 | 
 refund|n./v.|退款
 reimburse|v.|赔偿；补偿
 ---
