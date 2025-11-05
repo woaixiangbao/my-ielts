@@ -3122,30 +3122,30 @@ salary|n.|工资；（按月领的）薪水 | She was employed with a salary of 
 income|n.|收入 | Many staff members made an accusation that the earned incomes were not distributed upon the principle of equality. | accusation n. 控告，指责 distribute v. 分配
 wage|n.|（通常指按周领的）工钱 | These workers demanded a wage rise of 5%
 ---
-payment|n.|支付；支付的款项；付款额 | 
-refund|n./v.|退款
-reimburse|v.|赔偿；补偿
+payment|n.|支付；支付的款项；付款额 | You may defer payment until next week. | defer v. 推迟 pay v. 支付 demand prompt payment 要求立即支付
+refund|n./v.|退款 | We can refund the price difference | claim a refund 要求退款
+reimburse|v.|赔偿；补偿 | We will reimburse the customer for any loss or damage. | reimbursement n. 赔偿，赔付 reimburse sb. for sth. 向某人赔偿某损失
 ---
-payroll|n.|工资名单
-remuneration|n.|报酬
-subsidy|n.|津贴，补贴||subsidise=subsidize v. 资助，给...发津贴
-earn|v.|赚得；赢得；获得
+payroll|n.|工资名单 | Every month she has to make a payroll of the staff. | payroll tax (向雇主和雇员征收的)工资税
+remuneration|n.|报酬 | He received a small remuneration.  | remunerate v. 给。。。报酬
+subsidy|n.|津贴，补贴|The government has decided to increase subsidies on farm produce. |subsidise=subsidize v. 资助，给...发津贴
+earn|v.|赚得；赢得；获得 | He has earned a lot of money this month. | earn a living 谋生 earn admiration 赢得人们的赞赏 earn fame 博得名声
 ---
-undertaking|n.|任务；事业；许诺；保证|I give an undertaking that we shall proceed with the legislation|a written undertaking 书面保证。an undertaking clause 承诺条款
-career|n.|职业；事业；职业生涯
-profession|n.|职业
+undertaking|n.|任务；事业；许诺；保证|I give an undertaking that we shall proceed with the legislation|a written undertaking 书面保证。an undertaking clause 承诺条款 legislation n. 法律，法规
+career|n.|职业；事业；职业生涯 | After the accident, she realised that her acting career was over. 
+profession|n.|职业 | The medical profession requires a strong sense of responsibility. | professional n. 专业人员 adj. 专业的，职业的 professor n. 教授
 ---
-occupation|n.|占领，占据；职业
-job|n.|职业；工作
-vocation|n.|（认为特别适合自己的）职业；使命感
+occupation|n.|占领，占据；职业 | I regard being a teacher as a decent occupation and I love being a teacher.| occupy v. 占据；居住 occupational adj. 职业的，工作的 an occupation certificate 入住证明书
+job|n.|职业；工作 | The job is not yet feinished. | a routine job 平淡乏味的工作 a second job 第二职业
+vocation|n.|（认为特别适合自己的）职业；使命感 | She struggled for years to find her true vacation.
 ---
-labour/labor|n.|劳动；体力劳动
-workforce|n.|劳动力；全体员工
-workaholic|n.|工作狂
-personnel|n.|人员，职员；人事部门
-clerk|n.|店员，办事员，接待员
+labour/labor|n.|劳动；体力劳动 | Many women do hard manual labour
+workforce|n.|劳动力；全体员工| This year 5% of the workforce will be made redundant.
+workaholic|n.|工作狂 | I do not want to become a workaholic.
+personnel|n.|人员，职员；人事部门| The next project needs new personnel | personal adj. 个人的，私人的 personal department 人事部门
+clerk|n.|店员，办事员，接待员 | The clerk was elevated to a managerial position. | an accounting clerk 记账员 an auditing clerk 审计员
 ---
-interview|n./v.|面试；采访/对...进行面试；采访
+interview|n./v.|面试；采访/对...进行面试；采访 | The interview has drawn considerable attention to the profession.
 résumé/resume|n.|UK /ˈrez.juː.meɪ/ US /ˈrez.ə.meɪ/ 履历；简历；摘要
 recommend|v.|推荐；劝告；介绍
 employ|v.|雇用；采用
