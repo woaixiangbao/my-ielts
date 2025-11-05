@@ -2965,7 +2965,7 @@ Germany|n.| 德国 | I need to buy a round-trip ticket to Germany. | German n. �
 社会经济
 +++
 economy|n.|经济；节约 | As the war debt lightened, the economy of the country developed quickly. | economic adj. 经济的，经济上的 economical adj. 节约的，实惠的 economics n. 经济学
-trade|n./v.|贸易/交换 | China market is experiencing
+trade|n./v.|贸易/交换 | China does a lot a trade with many countries. | develop trade 发展贸易 encourage trade 鼓励贸易 global trade 全球贸易
 market|n.|市场；市场需求 | The market is experiencing depression at the moment.
 industry|n.|工业；产业；勤劳 | The conference underscored the importance of modern industry. | industrialise v. 使工业化 industrial adj. 工业的；产业的 heavy industry 重工业
 ---
@@ -3062,7 +3062,7 @@ product|n.|产品；产物 | A series of technical issues delayed the launch of 
 ---
 acquisition|n.|获得；（对公司的）并购 | The acquisition of knowledge is a social activity. | the acquisition of a fortune 获得一笔财富
 goods|n.|商品；货物 | You give me the money and I'll give you the goods.
-cargo|n.|货物 | The ship is discharging the cargo.
+cargo|n.|货物 | The ship is discharging the cargo. 
 ---
 insure|v.|确保；给...上保险 | His talent and commitment will insure his success. | insurance n. 保险 commitment n. 投入，热情
 guarantee|v./n.|担保；确保/保证；保修单；担保金；担保物 |  They offer a two-year guarantee on all their household appliances. | a bank guarantee 银行担保 a credit guarantee 信贷担保
@@ -3073,7 +3073,7 @@ attend|v.|参加，出席 | A large number of people attended her birthday party
 absent|adj.|缺席的；不在场的；心不在焉的 | Daniel was absent from the house all the next day. | absence n. 缺席；缺乏 absent-minded adj. 健忘的 be absent from 不在（某处）
 ---
 sale|n.|买；销售；销售额 | The store discounted all air conditioners for sale. | salesman n. 售货员, 推销员 sell v. 卖，销售 seller n. 卖者，销售方
-wholesale|n.| 批发 | These wholesale dealers earned a large sum of money.
+wholesale|n.| 批发 | These wholesale dealers earned a large sum of money. 
 auction|v./n.|拍卖 | His house was sold at an auction | auction price 拍卖价格 put sth. up for auction 将某物交付拍卖
 bid|v./n.|出价；投标 | They lost the contract because their bid was too high. | bidder n. 投标者；出价者
 ---
@@ -3099,7 +3099,7 @@ cheque/check|n.|支票 | The bank cashed my cheque.银行兑现了我的支票 |
 ---
 cash|n./v.|现金/兑现（支票） | He paid for the meal in cash. | pay cash 付现金
 coin|n./v.|硬币/铸币；创造（新词语） | We'd better not coin terms which are not intelligible. 我们最好不要造一些别人不容易懂的词语 | coiner n. 创造新词语的人；铸硬币的人
-shilling|n.|先令 | Five pence was equal to a shilling.
+shilling|n.|先令 | Five pence was equal to a shilling. 
 copper|n.|铜；[~s]铜币；警察|He polished up the old copper coins. |cop n. 警察  polish v. 擦亮 coppery adj. 似铜的，紫铜色的
 ---
 treasure|n.|金银财宝；宝物；珍品 | This museum has many art treasures. | treasury n. 财政部；宝库 a national treasure 国宝
@@ -3107,14 +3107,14 @@ wealth|n.|财富；丰富 | Health is better than wealth. | wealthy adj. 富有�
 estate|n.|地产；遗产 | The old lady left an estate of three million pounds when she died. | real estate n. 房地产
 ---
 possess|v.|占用；拥有；影响；控制 | She was possessed by the desire to be rich | possessive adj. 占有欲强的；自私的 possession n. 个人财产；拥有 possessor n. 持有人
-legacy|n.|遗赠；遗产 | The girl received a small legacy from her aunt.
+legacy|n.|遗赠；遗产 | The girl received a small legacy from her aunt. 
 descend|v.|下降，下来 | She is said to be descended from a French aristocratic family. 据说，她是法国贵族的后裔 | aristocratic adj. 贵族的
 ---
 worthy|adj.|有价值的 | This book is worthy of reading. | worthless adj. 无价值的，无用的
 valuable|adj.|很值钱的；贵重的；很重要的 | His wife put on her valuable ring and necklace. | value n. 价值 valuation n. 评价；估价
 cheap|adj.|廉价的；质劣价低的 | Cheap shoes soon wear out. | cheaply adv. 便宜地，廉价地 cheapskate n. 小气鬼，守财奴
 ---
-incentive|n.|刺激；激励 | Incentives differ from country to country and region to region  | an incentive to 激励。。。的措施
+incentive|n.|刺激；激励 | Incentives differ from country to country and region to region  | an incentive to 激励。。。的措施 
 accelerate|v.|加速 | Good economic policies can accelerate the economic growth of a society. | decelerate v. （使）减速
 prompt|v./adj.|促使/迅速的 | What prompted you to do such a thing  | promptly adv. 立即
 ---
@@ -3132,7 +3132,7 @@ subsidy|n.|津贴，补贴|The government has decided to increase subsidies on f
 earn|v.|赚得；赢得；获得 | He has earned a lot of money this month. | earn a living 谋生 earn admiration 赢得人们的赞赏 earn fame 博得名声
 ---
 undertaking|n.|任务；事业；许诺；保证|I give an undertaking that we shall proceed with the legislation|a written undertaking 书面保证。an undertaking clause 承诺条款 legislation n. 法律，法规
-career|n.|职业；事业；职业生涯 | After the accident, she realised that her acting career was over.
+career|n.|职业；事业；职业生涯 | After the accident, she realised that her acting career was over. 
 profession|n.|职业 | The medical profession requires a strong sense of responsibility. | professional n. 专业人员 adj. 专业的，职业的 professor n. 教授
 ---
 occupation|n.|占领，占据；职业 | I regard being a teacher as a decent occupation and I love being a teacher.| occupy v. 占据；居住 occupational adj. 职业的，工作的 an occupation certificate 入住证明书
@@ -3146,42 +3146,42 @@ personnel|n.|人员，职员；人事部门| The next project needs new personne
 clerk|n.|店员，办事员，接待员 | The clerk was elevated to a managerial position. | an accounting clerk 记账员 an auditing clerk 审计员
 ---
 interview|n./v.|面试；采访/对...进行面试；采访 | The interview has drawn considerable attention to the profession.
-résumé/resume|n.|UK /ˈrez.juː.meɪ/ US /ˈrez.ə.meɪ/ 履历；简历；摘要 | Please e-mail your personal resume to us before sitting a written test.
-recommend|v.|推荐；劝告；介绍 | I recommend you to reserve a table in advance. | recommendation n. 推荐；推荐信
-employ|v.|雇用；采用 | They employ casual labour to pick the fruit. | casual adj. 休闲的，临时的
-hire|v./n.|雇用；租用/租赁（业）| They hired an advertising company to help sell a new product. | hireling n. 给钱就什么都愿意做的人
+résumé/resume|n.|UK /ˈrez.juː.meɪ/ US /ˈrez.ə.meɪ/ 履历；简历；摘要
+recommend|v.|推荐；劝告；介绍
+employ|v.|雇用；采用
+hire|v./n.|雇用；租用/租赁（业）
 ---
-fire|v./n.|解雇/火| He was fired by his boss.
-lay-off|n.|（因岗位不足的）解雇；裁员；歇工期 | There are more lay-offs in the IT industry this year.
-dismiss|v.|解雇；解散；驳回 | If you are late again, you will be dismissed. | dismission n. 解雇 dismissible adj. 可解雇的 dismissal n. 解雇 dismiss the case 驳回该案件 dismiss the court 退庭
-discharge|v./n.|解雇/卸货 | How long will the discharge of the cargo take
+fire|v./n.|解雇/火
+lay-off|n.|（因岗位不足的）解雇；裁员；歇工期
+dismiss|v.|解雇；解散；驳回
+discharge|v./n.|解雇/卸货
 ---
-resign|v.|辞去；辞职 | Katherine was forced to resign from the board of directors. | resignation n. 辞职；辞呈 resign from 从。。。辞职
-sack|n./v.|大口袋，麻布袋/开除 | The poor guy got sacked yesterday.
-retire|v.|退休 | If they prove incompetent, they should be demoted or asked to retire. | retired adj. 退休的 retirement n. 退休；引退 incompetent adj. 无能力的，不称职的 demote vt. 使降级
+resign|v.|辞去；辞职
+sack|n./v.|大口袋，麻布袋/开除
+retire|v.|退休
 ---
-result|n./v.|结果，后果/导致 | As a result, there is often trouble in American families.| as a result of 作为。。。的结果 result from 由。。。引起 result in 导致
-failure|n.|失败；失败的人；失败的事 | His failure may lead to the bankruptcy of the company. | fail v. 失败 end of failure 以失败告终
-abortion|n.|人工流产；中途失败| His attempt proved an abortion.  | have an abortion 做人工流产手术
-loss|n.|遗失；损失；亏损 | They forfeited the business after only two months and with great loss. | forfeit v. 丧失，被没收 make up a loss 弥补损失 suffer a loss 遭受损失
+result|n./v.|结果，后果/导致
+failure|n.|失败；失败的人；失败的事
+abortion|n.|人工流产；中途失败
+loss|n.|遗失；损失；亏损
 ---
-opportunity|n.|机会；时机 | I'd like to take this opportunity to thank everyone for their hard work on the project.
-chance|n.|机会；可能性 | Her testimony works against his chance of winning the case. | testimony n. 证词 by chance 偶然 take a chance 冒险
-choose|v.|选择 | We have many patterns in stock for you to choose from. | choice n. 选择，抉择 as you choice 随你选择
-change|n.|改变 | All our previous ideas are now in the melting pot, which means our jobs are bound to change radically.
+opportunity|n.|机会；时机
+chance|n.|机会；可能性
+choose|v.|选择
+change|n.|改变
 ---
-solve|v.|解答，解决 | I must alert him to the need to solve the problem. | solution n. 解决办法 solve a puzzle 解答谜题
-develop|v.|发展，开发 | The united States can't develop in isolation from the rest of the world. | development n. 发展 developed adj. 发达的 developing adj. 发展中的  a developing country 发展中国家 a developed country 发达国家
-sustainable|adj.|可持续的 | Sustainable development is the common target of human beings. | sustainable development 可持续发展
-improve|v.|改善；改进 | He offered a suggestion to improve the plan. | improvement n. 改进
+solve|v.|解答，解决
+develop|v.|发展，开发
+sustainable|adj.|可持续的
+improve|v.|改善；改进
 ---
-manage|v.|管理；设法做到 | From this day on, I will manage all my affairs on my own. | management n. 管理 manager n. 经理
-regulate|v.|管理；调整 | Your watch is slow. It needs to be regulated.
-sanction|n./v.|批准；制裁/批准；对...制裁 | The minster can only act in this matter with the sanction of parliament. | apply/impose a sanction 实行制裁
+manage|v.|管理；设法做到
+regulate|v.|管理；调整
+sanction|n./v.|批准；制裁/批准；对...制裁
 ---
-coordinate|v./n.|调和；协调/坐标 | Our efforts need to be further coordinated for higher efficiency.
-cooperate|v.|合作；协作 | If they cooperate with each other, everything will run smoothly. | cooperation n. 合作，协作 cooperate with 与。。。合作
-collaborate|v.|合作 | We would like to ask you to collaborate with us.
+coordinate|v./n.|调和；协调/坐标
+cooperate|v.|合作；协作
+collaborate|v.|合作
 ===
 法律法规
 +++
