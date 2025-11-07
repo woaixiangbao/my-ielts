@@ -3147,18 +3147,18 @@ clerk|n.|店员，办事员，接待员 | The clerk was elevated to a managerial
 ---
 interview|n./v.|面试；采访/对...进行面试；采访 | The interview has drawn considerable attention to the profession.
 résumé/resume|n.|UK /ˈrez.juː.meɪ/ US /ˈrez.ə.meɪ/ 履历；简历；摘要
-recommend|v.|推荐；劝告；介绍
-employ|v.|雇用；采用
-hire|v./n.|雇用；租用/租赁（业）
+recommend|v.|推荐；劝告；介绍 | I recommend you to reserve a table in advance. | recommendation n. 推荐
+employ|v.|雇用；采用 | They employ casual labour to pick the fruit. | casual adj. 短期的，临时的  employer n. 雇主，老板 employee n. 雇员，职工 employment n. 雇佣；工作 unemployment n. 失业 employed adj. 有工作的 unemployed adj. 失业的  be employed in 从事于
+hire|v./n.|雇用；租用/租赁（业）| They hired an advertising company to help sell a new product. | hireling n. 给钱就什么都愿意做的人
 ---
-fire|v./n.|解雇/火
-lay-off|n.|（因岗位不足的）解雇；裁员；歇工期
-dismiss|v.|解雇；解散；驳回
-discharge|v./n.|解雇/卸货
+fire|v./n.|解雇/火 | He was fired by his boss.
+lay-off|n.|（因岗位不足的）解雇；裁员；歇工期 | There are more lay-offs in the IT industry this year.
+dismiss|v.|解雇；解散；驳回 | If you are late again, you will be dismissed. | dismission n. 解雇 dismissible adj. 可解雇的 dismissal n. 解雇 dismiss the case 驳回该案件 dismiss the court 退庭
+discharge|v./n.|解雇/卸货|How long will the discharge of the cargo take
 ---
-resign|v.|辞去；辞职
-sack|n./v.|大口袋，麻布袋/开除
-retire|v.|退休
+resign|v.|辞去；辞职 | Katherine was forced to resign from the board.
+sack|n./v.|大口袋，麻布袋/开除 | The poor guy got sacked yesterday.
+retire|v.|退休 | If they prove incompetent, they should be demoted or asked to retire. | incompetent adj. 无能力的 demote v. 降级
 ---
 result|n./v.|结果，后果/导致
 failure|n.|失败；失败的人；失败的事
