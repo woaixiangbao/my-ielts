@@ -3160,45 +3160,45 @@ resign|v.|辞去；辞职 | Katherine was forced to resign from the board.
 sack|n./v.|大口袋，麻布袋/开除 | The poor guy got sacked yesterday.
 retire|v.|退休 | If they prove incompetent, they should be demoted or asked to retire. | incompetent adj. 无能力的 demote v. 降级
 ---
-result|n./v.|结果，后果/导致
-failure|n.|失败；失败的人；失败的事
-abortion|n.|人工流产；中途失败
-loss|n.|遗失；损失；亏损
+result|n./v.|结果，后果/导致 |  As a result, there is often trouble in American families. | as a result of 作为。。。的结果 result from 由。。。引起 result in 导致
+failure|n.|失败；失败的人；失败的事 | His failure may lead to the bankruptcy of the company. | fail v. 失败 end in failure 以失败告终
+abortion|n.|人工流产；中途失败 | His attempt proved an abortion. | have an abortion 做人工流产手术
+loss|n.|遗失；损失；亏损 | They forfeited the business after only two months and with great loss. | forfeit v. 丧失，被没收 lossless adj. 无损失的 loser n. 失败者 make up a loss 弥补损失 suffer a loss 遭受损失
 ---
-opportunity|n.|机会；时机
-chance|n.|机会；可能性
-choose|v.|选择
-change|n.|改变
+opportunity|n.|机会；时机 | I'd like to take this opportunity to thank everyone for their hard work on the project.
+chance|n.|机会；可能性 | Her testimony works against his chance of winning the case. | testimony n. 证词 by chance 偶然 take a chance 冒险
+choose|v.|选择 | We have many patterns in stock for you to choose from. | choice n. 选择，抉择  as you choose 随你选择
+change|n.|改变 | All our previous ideas are now in the melting pot, which means our jobs are bound to change radically. | changeable adj. 可能变化的，易变的
 ---
-solve|v.|解答，解决
-develop|v.|发展，开发
-sustainable|adj.|可持续的
-improve|v.|改善；改进
+solve|v.|解答，解决 | I must alert him to the need to solve the problem. | solution n. 解决办法 solve a puzzle 解答谜题
+develop|v.|发展，开发 | The United States can't develop in isolation from the rest of the world. | development n. 发展 developed adj. 发达的 developing adj. 发展中的 
+sustainable|adj.|可持续的 | Sustainable development is the common target of human beings. | sustainable development 可持续发展
+improve|v.|改善；改进 | He offered a suggestion to improve the plan.
 ---
-manage|v.|管理；设法做到
-regulate|v.|管理；调整
-sanction|n./v.|批准；制裁/批准；对...制裁
+manage|v.|管理；设法做到 | From this day on, I will manage all my affairs on my own. | management n. 管理 manager n. 经理
+regulate|v.|管理；调整 | Your watch is slow. It need to be regulated. 
+sanction|n./v.|批准；制裁/批准；对...制裁 | The minister can only act in this matter with the sanction of parliament. | apply/impose a sanction 实行制裁
 ---
-coordinate|v./n.|调和；协调/坐标
-cooperate|v.|合作；协作
-collaborate|v.|合作
+coordinate|v./n.|调和；协调/坐标 | Our efforts need to be further coordinated for higher efficiency. | coordinator n. 协调人
+cooperate|v.|合作；协作 | If they cooperate with each other, everything will run smoothly | cooperation n. 合作 cooperate with 与。。。合作
+collaborate|v.|合作 | We would like to ask you to collaborate with us.
 ===
 法律法规
 +++
 law|n.|法律；规律；定理|Those who break the law are subjected to justice. 违法者要受到法律的制裁|be subject to something 有；遭受，承受。enact a law 通过法律
-legal|adj.|法律的；合法的
-rule|n./v.|规则/统治
-regulation|n.|规则；规定；管理
+legal|adj.|法律的；合法的 | When you are 18, you are legal voter. | illegal adj. 不合法的，非法的
+rule|n./v.|规则/统治 | It's against the rules to pick up the ball.
+regulation|n.|规则；规定；管理 | The rules and regulations should be made clear to all employees. | regulate v. 管理 regular adj. 有规律的
 ---
-item|n.|条目|This is the next item on the agenda|agenda n. 议事日程;（会议的）议程；议事日程;（会议的）议程
-treaty|n.|条约；协议
-agreement|n.|同意；协定
-charter|n./v.|宪章/租；包（船、车、飞机等）
-protocol|n.|协定书；协议；礼仪
+item|n.|条目|This is the next item on the agenda|agenda n. 议事日程;（会议的）议程；议事日程;（会议的）议程 
+treaty|n.|条约；协议 | In the treaty, both sides pledge to respect human rights
+agreement|n.|同意；协定 | The argeement has raised hopes that the war may end soon. | agree v. 同意
+charter|n./v.|宪章/租；包（船、车、飞机等） | The rights of our citizens are granted by the charter. | draft a charter
+protocol|n.|协定书；协议；礼仪 | Do we need to sign a contract or follow any protocol.
 ---
-norm|n.|标准；[~s]行为准则；规范
-benchmark|n.|基准，水准点
-criteria|n.|[criterion 的复数形式]标准；准则
+norm|n.|标准；[~s]行为准则；规范 | Your must adapt to the norms of the society you live in. | normal adj. 正常的 abnormal adj. 不正常的，变态的
+benchmark|n.|基准，水准点 | Her performances set a new benchmark for dancers throughout the world.
+criteria|n.|[criterion 的复数形式]标准；准则 | We each have our own criteria for success.
 standard|n.|标准
 permit|v.|允许；准许
 allow|v.|允许；准许
