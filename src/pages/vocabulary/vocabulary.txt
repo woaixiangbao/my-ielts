@@ -3227,9 +3227,9 @@ just|adj./adv.|公证的；正义的/刚刚；仅仅 | Our aim is a just and las
 prejudice|n.|偏见；成见 | A judge must be free from prejudice | prejudice against 对。。。的偏见
 discrimination|n.|歧视 | He is opposed to racial discrimination | racial adj. 种族的，人种的
 ---
-accuse|v.|控告；指责
-sue|v.|控告，提起诉讼；提出请求
-prosecute|v.|检举；起诉
+accuse|v.|控告；指责| The police accused him of murder. | accuse sb. of sth 指控某人犯某罪
+sue|v.|控告，提起诉讼；提出请求 | The company is suing the former president. | sue sb. for 控告某人（做了某事造成损害的事）
+prosecute|v.|检举；起诉 | He was prosecuted for robbery
 ---
 condemn|v.|谴责；指责
 complain|v.|抱怨；投诉
