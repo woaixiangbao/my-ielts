@@ -3199,27 +3199,27 @@ protocol|n.|协定书；协议；礼仪 | Do we need to sign a contract or follo
 norm|n.|标准；[~s]行为准则；规范 | Your must adapt to the norms of the society you live in. | normal adj. 正常的 abnormal adj. 不正常的，变态的
 benchmark|n.|基准，水准点 | Her performances set a new benchmark for dancers throughout the world.
 criteria|n.|[criterion 的复数形式]标准；准则 | We each have our own criteria for success.
-standard|n.|标准
-permit|v.|允许；准许
-allow|v.|允许；准许
-admission|n.|承认；入场费；准许入场
+standard|n.|标准 | This piece of work does not come up to your usual standard. | standardised adj. 标准化的
+permit|v.|允许；准许 | Those words hardly permit doubt. | permission n. 允许；许可证 permissible adj. 容许的
+allow|v.|允许；准许 | They did not allow the slaves any freedom.  | allowance n. 津贴；限额 allow for 考虑到 allow sb. to do sth. 允许某人做某事
+admission|n.|承认；入场费；准许入场 | He gained admission into the association 
 ---
-perform|v.|履行；执行
-enforce|v.|强制执行；强行实施；迫使
-default|v./n.|不支付、不履行/违约；默认值
-reject|v.|拒绝接受；摒弃
-constraint|n.|约束；限制，克制
+perform|v.|履行；执行 | They always perform their duties faithfully. | performance n. 履行；演出；表现
+enforce|v.|强制执行；强行实施；迫使 | The police are there to enforce the law. | enforcement n. 执行，实施 enforce sth. on sb. 强迫某人做某事，把某事强加于某人
+default|v./n.|不支付、不履行/违约；默认值 | The company has already been in default on its loans. | iin default of 因为没有。。。
+reject|v.|拒绝接受；摒弃 | The board of directors rejected the proposal as a non-starter. | rejection n. 拒绝
+constraint|n.|约束；限制，克制 | He felt constraint when in her presence. 
 ---
-official|adj.|正式的；官方的
-mandatory|adj.|法定的；强制的
-potent|adj.|很有效的；强有力的
-bound|adj.|[be ~ to]一定会；很可能会；有义务
-obligation|n.|义务；责任
+official|adj.|正式的；官方的 | The mass media demanded that all the official documents concerning the product in question be made public.
+mandatory|adj.|法定的；强制的 | A reply to this letter is mandatory. | mandate v. 强制执行
+potent|adj.|很有效的；强有力的 | The medicine had a potent effect on your disease | impotent adj. 无能为力的
+bound|adj.|[be ~ to]一定会；很可能会；有义务 | You are not legally bound to answer these questions.
+obligation|n.|义务；责任 | We are under an obligation to help. 
 ---
-court|n.|法院；庭院
-supreme|adj.|最高的；最大的
-enact|v.|通过（法律）；表演
-legislate|v.|立法，制定（或通过）法律
+court|n.|法院；庭院 | The company is anxious to keep the whole case out of court. | take sb. to court 起诉某人，把某人告上法庭
+supreme|adj.|最高的；最大的 | He was the superme leader of that fascist dictatorship. | supremacy n. 优势；最高地位，至高无上 a supreme court 最高法院
+enact|v.|通过（法律）；表演 | The country has just enacted a law allowing same-sex marriage.
+legislate|v.|立法，制定（或通过）法律 | The goverment will legislate against discrimination in the workplace. | legislation n. 立法；法律
 ---
 equity|n.|公平 | They call for laws to promote gender equity.  | equal adj. 平等的
 fair|adj.|公平的；公正的 | He won the game fair and square | unfair adj. 不公平的，不公正的 
