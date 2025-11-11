@@ -3185,13 +3185,13 @@ collaborate|v.|合作 | We would like to ask you to collaborate with us.
 ===
 法律法规
 +++
-law|n.|法律；规律；定理|Those who break the law are subjected to justice. 违法者要受到法律的制裁|be subject to something 有；遭受，承受。enact a law 通过法律
+law|n.|法律；规律；定理|Those who break the law are subjected to justice. 违法者要受到法律的制裁|be subject to something 使。。。遭受，承受。enact a law 通过法律
 legal|adj.|法律的；合法的 | When you are 18, you are legal voter. | illegal adj. 不合法的，非法的
 rule|n./v.|规则/统治 | It's against the rules to pick up the ball.
 regulation|n.|规则；规定；管理 | The rules and regulations should be made clear to all employees. | regulate v. 管理 regular adj. 有规律的
 ---
 item|n.|条目|This is the next item on the agenda|agenda n. 议事日程;（会议的）议程；议事日程;（会议的）议程 
-treaty|n.|条约；协议 | In the treaty, both sides pledge to respect human rights
+treaty|n.|条约；协议 | In the treaty, both sides pledge to respect human rights | pledge v./n. 誓言，保证，承诺
 agreement|n.|同意；协定 | The argeement has raised hopes that the war may end soon. | agree v. 同意
 charter|n./v.|宪章/租；包（船、车、飞机等） | The rights of our citizens are granted by the charter. | draft a charter
 protocol|n.|协定书；协议；礼仪 | Do we need to sign a contract or follow any protocol.
@@ -3199,37 +3199,37 @@ protocol|n.|协定书；协议；礼仪 | Do we need to sign a contract or follo
 norm|n.|标准；[~s]行为准则；规范 | Your must adapt to the norms of the society you live in. | normal adj. 正常的 abnormal adj. 不正常的，变态的
 benchmark|n.|基准，水准点 | Her performances set a new benchmark for dancers throughout the world.
 criteria|n.|[criterion 的复数形式]标准；准则 | We each have our own criteria for success.
-standard|n.|标准 | This piece of work does not come up to your usual standard. | standardised adj. 标准化的 standardisation n. 标准化
-permit|v.|允许；准许 | Those words hardly permit doubt. | permission n. 允许；许可证 permissible adj. 容许的
-allow|v.|允许；准许 | They did not allow the slaves any freedom. | allowance n. 津贴；限额 allow for 考虑到 allow sb. to do sth. 允许某人做某事
-admission|n.|承认；入场费；准许入场 | He gained admissioin into the association | 他获准加入这个协会
+standard|n.|标准
+permit|v.|允许；准许
+allow|v.|允许；准许
+admission|n.|承认；入场费；准许入场
 ---
-perform|v.|履行；执行 | They always perform their duties faithfully.| performance n. 履行；演出；表现
-enforce|v.|强制执行；强行实施；迫使 | The police are there to enforce the law. | enforcement n. 执行，实施 enforce sth. on sb. 强迫某人做某事，把某事强加于某人
-default|v./n.|不支付、不履行/违约；默认值 | The company has already been in default on its loans. | in default of 因为没有。。。
-reject|v.|拒绝接受；摒弃 | The board of directors rejected the proposal as a non-starter. | rejection n. 拒绝
-constraint|n.|约束；限制，克制 | He felt constraint when in her presence. 
+perform|v.|履行；执行
+enforce|v.|强制执行；强行实施；迫使
+default|v./n.|不支付、不履行/违约；默认值
+reject|v.|拒绝接受；摒弃
+constraint|n.|约束；限制，克制
 ---
-official|adj.|正式的；官方的 | The mass media demanded that all the official documents concerning the product in question be made public.
-mandatory|adj.|法定的；强制的 | A reply to this letter is mandatory. | mandate v. 强制执行
-potent|adj.|很有效的；强有力的 |  The medicine had a potent effect on your disease. | impotent adj. 无能为力的
-bound|adj.|[be ~ to]一定会；很可能会；有义务 | You are not legally bound to answer these questions. 
-obligation|n.|义务；责任 | We are under an obligation to help. | oblige v. 迫使，强迫，帮忙
+official|adj.|正式的；官方的
+mandatory|adj.|法定的；强制的
+potent|adj.|很有效的；强有力的
+bound|adj.|[be ~ to]一定会；很可能会；有义务
+obligation|n.|义务；责任
 ---
-court|n.|法院；庭院 | The company is anxious to keep the whole case out of court. | take sb. to court 起诉某人，把某人告上法庭
-supreme|adj.|最高的；最大的 | He was the supreme leader of that fascist dictatorship. | dictatorship n. 专政，独裁 supremacy n. 优势；最高地位，至高无上 a supreme court 最高法院
+court|n.|法院；庭院
+supreme|adj.|最高的；最大的
 enact|v.|通过（法律）；表演
 legislate|v.|立法，制定（或通过）法律
 ---
-equity|n.|公平
-fair|adj.|公平的；公章的
-just|adj./adv.|公证的；正义的/刚刚；仅仅
-prejudice|n.|偏见；成见
-discrimination|n.|歧视
+equity|n.|公平 | They call for laws to promote gender equity.  | equal adj. 平等的
+fair|adj.|公平的；公正的 | He won the game fair and square | unfair adj. 不公平的，不公正的 
+just|adj./adv.|公证的；正义的/刚刚；仅仅 | Our aim is a just and lasting peace. | unjust adj. 非正义的；不公正的 justice n. 公平；法官 justify v. 为。。。辩护，证明。。。正当
+prejudice|n.|偏见；成见 | A judge must be free from prejudice | prejudice against 对。。。的偏见
+discrimination|n.|歧视 | He is opposed to racial discrimination | racial adj. 种族的，人种的
 ---
-accuse|v.|控告；指责
-sue|v.|控告，提起诉讼；提出请求
-prosecute|v.|检举；起诉
+accuse|v.|控告；指责| The police accused him of murder. | accuse sb. of sth 指控某人犯某罪
+sue|v.|控告，提起诉讼；提出请求 | The company is suing the former president. | sue sb. for 控告某人（做了某事造成损害的事）
+prosecute|v.|检举；起诉 | He was prosecuted for robbery
 ---
 condemn|v.|谴责；指责
 complain|v.|抱怨；投诉
