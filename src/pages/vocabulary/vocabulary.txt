@@ -3231,55 +3231,55 @@ accuse|v.|控告；指责| The police accused him of murder. | accuse sb. of sth
 sue|v.|控告，提起诉讼；提出请求 | The company is suing the former president. | sue sb. for 控告某人（做了某事造成损害的事）
 prosecute|v.|检举；起诉 | He was prosecuted for robbery
 ---
-condemn|v.|谴责；指责
-complain|v.|抱怨；投诉
-boycott|n./v.|抵制；拒绝购买
+condemn|v.|谴责；指责 | Most people would condenm violence of any sorts as evil.
+complain|v.|抱怨；投诉 | She complained that the room is too cold. | complaint n. 抱怨；投诉 complain about 抱怨；投诉 complain to 向。。。投诉
+boycott|n./v.|抵制；拒绝购买 | They boycott all products tested on animals.
 ---
-session|n.|会议；会期
-mediate|v.|斡旋；调解||mediate between 在...之间进行调解
-plea|n.|辩解理由；借口；请求
+session|n.|会议；会期 | The general session approved the report of the investigation committee.
+mediate|v.|斡旋；调解|He mediated a settlement between labour and management.|mediate between 在...之间进行调解
+plea|n.|辩解理由；借口；请求 | He plea was that he did not see the stop signal | make a plea for 恳求，请求
 ---
-appeal|v./n.|呼吁；申述
-contradict|v.|反驳；与...矛盾
-persuade|v.|说服；使相信
-controversy|n.|争议；辩论
+appeal|v./n.|呼吁；申述 | The response to our appeal was encouraging. | lodge an appeal 提出申诉
+contradict|v.|反驳；与...矛盾 | Your actions contradict your belief. | contradiction n. 反驳；矛盾
+persuade|v.|说服；使相信 | The woman persuaded the robber to turn himself in. | persuade sb. to do sth. 说服某人做某事
+controversy|n.|争议；辩论 | The new traffic regulations caused much controversy among drivers. | controversial adj. 有争议的
 ---
-whisper|v.|低声说；私下谈论
-mutter|v.|低声低语；小声抱怨
-murmur|n./v.|低声说/咕哝；低语
+whisper|v.|低声说；私下谈论 | The children were whispering in the corner.
+mutter|v.|低声低语；小声抱怨 | That man muttered his dissatisfaction. 
+murmur|n./v.|低声说/咕哝；低语 | There was a low murmur of conversation in the hall
 silent|adj.|沉默的；寂静无声的|He couldn't speak English and was completely silent during the visit|silence n./v. 沉默；寂静/使安静
-mute|adj./n.|缄默的；哑的；无声的/哑巴
+mute|adj./n.|缄默的；哑的；无声的/哑巴 | She kept herself mute at the meeting. 
 ---
-investigate|v.|调查
-witness|n./v.|目击者；见证人/见证
-justify|v.|为...辩护；证明...正当
-reasonable|adj.|合理的；理智的
-suitable|adj.|合适的，适宜的
+investigate|v.|调查 | To investigate a problem is, indeed, to solve it. | investigation n. 调查；科学研究 investigate into 对。。。进行调查
+witness|n./v.|目击者；见证人/见证 | Children in regions of chaos and bloodshed are witnessing a distrubing amount of violence. | bear witness to 证明某事为真实的证据
+justify|v.|为...辩护；证明...正当 | Don't try to justify your mistakes | justice n. 公正；法官 justify sth. by 以。。。证明某事物正当
+reasonable|adj.|合理的；理智的 | At first sight, their reaction was reasonable. | reasonably adv. 适度地；合乎逻辑地 reasoning n. 推理
+suitable|adj.|合适的，适宜的 | The authorities must provide suitable accommodation for the family. | suitable for 适合。。。的，适于
 ---
-judge|n.|法官；裁判员
-jury|n.|陪审团；评判委员会|The jury will retire to consider its verdict today. 陪审团今天将退庭商议其裁决|verdict n. 裁决
-trial|n.|试验；审判
-suspect|n./v.|嫌疑犯/怀疑
+judge|n.|法官；裁判员 | The defence counsel said his client was too tired, so the judge called a recess. | recess n. 休会 judgement n. 意见；裁决；判断力
+jury|n.|陪审团；评判委员会|The jury will retire to consider its verdict today. 陪审团今天将退庭商议其裁决|verdict n. 裁决 retire v. 退庭表决
+trial|n.|试验；审判 | I noticed that his report was highly critical of the trial judge of this case. | a trial period 试用期
+suspect|n./v.|嫌疑犯/怀疑 | The police couldn't prove that the suspect is guilty. | suspect sb. of sth. 怀疑某人干某事
 ---
-sentence|n./v.|判决/宣判
-arrest|v./n.|逮捕；吸引（注意）/逮捕||arrest sb.'s attention 引起某人的注意
-jail|n./v.|监狱/监禁
-prison|n.|监狱，监禁
+sentence|n./v.|判决/宣判 | He stood emotionless as he heard the judge sentence him to 20 years in prison.
+arrest|v./n.|逮捕；吸引（注意）/逮捕|You shouldn't arrest him without an arrest warrant.|arrest sb.'s attention 引起某人的注意 warrant n. 授权令
+jail|n./v.|监狱/监禁 | A bunch of prisoners broke loose from jail. | break loose 摆脱束缚
+prison|n.|监狱，监禁 | Many people believe that prison isn't a cure for crime | prisoner n. 囚犯 imprison v. 监禁，关押
 confine|n./v.|[~s]边界；范围/限制；监禁|this is outside the confines of human knowledge|be confined to 局限于。 within the confines of 在（某范围）之内
 ---
-oversee|v.|监督；监管
-supervise|v.|监督；管理；指导
-restrict|v.|限制；限定；约束
-restrain|v.|抑制；制止||restrain oneself 克制自己
+oversee|v.|监督；监管 | You must employ someone to oversee the project
+supervise|v.|监督；管理；指导 | This kind of project ought to be suspervised by management. | supervisor n. 管理者，监督者
+restrict|v.|限制；限定；约束 | Don't restrict their proper activites. | restriction n. 限制；约束 be restricted to 限于，局限于
+restrain|v.|抑制；制止|I can't restrain my anger when I hear of someone being cruel to animals. |restrain oneself 克制自己
 ---
-commit|v.|犯（罪）；做（坏事）
-sin|n./s.|罪孽/犯戒律
-crime|n.|罪行；犯罪活动
+commit|v.|犯（罪）；做（坏事） |He who commits a fault thinks everyone speaks of it. | commitment n. 承诺，保证；投入 commit an error 做错事 commit a crime 犯罪 commit suicide 自杀
+sin|n./s.|罪孽/犯戒律 | She was baptised and she was pure and clean of sin. 
+crime|n.|罪行；犯罪活动 | There is no proof that he was on the crime scene. | criminal n. 罪犯 adj. 刑事的；犯罪的；不道德的 commit a crime 犯罪
 ---
 vice|n.|恶行；缺点|Virtue and vise are different things: former leads to peace, the latter to misery|virtue n. 美德；高尚品德。misery n. 痛苦，悲惨；常常不高兴/老发牢骚的人
-bribe|n./v.|贿赂/向...行贿||bribery n. 贿赂行为。bribee n. 受贿者 briber n. 行贿者
-rob|v.|抢劫；夺走
-pirate|n./v.|海盗；盗版者/盗印，窃用
+bribe|n./v.|贿赂/向...行贿|The counterfeiter bribed the police officer to let him go free.|bribery n. 贿赂行为。bribee n. 受贿者 briber n. 行贿者
+rob|v.|抢劫；夺走 | They were scheming to rob the bank. | robber n. 强盗 robbery n. 抢劫，劫掠 rob sb. of sth. 抢劫某人的某物
+pirate|n./v.|海盗；盗版者/盗印，窃用 | The terrible pirates attacked a merchant ship.
 ---
 steal|n.|偷，窃取；剽窃
 thief|n.|窃贼；偷窃犯
