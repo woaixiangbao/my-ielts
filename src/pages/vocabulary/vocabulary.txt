@@ -3281,54 +3281,54 @@ bribe|n./v.|贿赂/向...行贿|The counterfeiter bribed the police officer to l
 rob|v.|抢劫；夺走 | They were scheming to rob the bank. | robber n. 强盗 robbery n. 抢劫，劫掠 rob sb. of sth. 抢劫某人的某物
 pirate|n./v.|海盗；盗版者/盗印，窃用 | The terrible pirates attacked a merchant ship.
 ---
-steal|n.|偷，窃取；剽窃
-thief|n.|窃贼；偷窃犯
-murder|n./v.|谋杀
-suicide|n.|自杀
+steal|n.|偷，窃取；剽窃| The young man was sent to prison for stealing.
+thief|n.|窃贼；偷窃犯 | The thief got in through the open window
+murder|n./v.|谋杀 | There have been several murder cases this year.
+suicide|n.|自杀 | He attempted to commit suicide after his firm had gone bankrupt.
 ---
-deceive|v.|欺骗；蒙蔽；误导
-cheat|v./n.|欺骗；作弊/作弊者
-fraud|n.|骗子；赝品；欺诈
-liar|n.|说谎的人
+deceive|v.|欺骗；蒙蔽；误导 | Nobody can deceive me | deceit n. 欺骗，欺诈 deceive sb. into doing sth. 欺骗某人做某事
+cheat|v./n.|欺骗；作弊/作弊者 | She alawys cheats at cards. | cheater n. 骗子；背叛者 cheat on sb. 对某人不忠
+fraud|n.|骗子；赝品；欺诈 | People who try to sell you something that can treat all disease are fraud.
+liar|n.|说谎的人 | Why did they call him a liar | lie v. 说谎
 ---
-trap|n./v.|陷阱；诡计/诱骗
-trick|n./v.|诡计/哄骗
-pretend|v.|假装，假扮
+trap|n./v.|陷阱；诡计/诱骗 | The police set a trap for the thieves.
+trick|n./v.|诡计/哄骗 | The children played a trick on their teacher | tricky adj. 狡猾的；棘手的 tricker n. 施诡计的人，骗子 play a trick on sb. 耍花招捉弄某人
+pretend|v.|假装，假扮 | The children pretended to be different animals and danced to the music. | pretend to do sth. 假装做某事  pretend sickness 装病
 fool|n./v.|蠢人；傻子/欺骗|A fool's haste is no speed. 欲速则不达|foolish adj. 愚蠢的。make a fool of sb. 愚弄某人。haste n. 仓促，匆忙
-stigma|n.|耻辱；污名
+stigma|n.|耻辱；污名 | It's a stigma to ask for money.
 ---
-confess|v.|供认；忏悔
-conform|v.|遵守；顺从；相符合
-reconcile|v.|使和解；调和
-obey|v.|服从；顺从
-succumb|v.|屈服；屈从
+confess|v.|供认；忏悔 | The suspect confessed to the armed robbery. | confession n. 招供，供词；承认
+conform|v.|遵守；顺从；相符合 | A coat must conform to the figure of the wearer. | conform to/with 遵守 conform to 与。。。相符合
+reconcile|v.|使和解；调和 | The estranged couple were reconciled after a year. | be reconciled with sb. 与某人和解
+obey|v.|服从；顺从 | The student obeyed the new teacher without hesitation | hesitation n. 犹豫 obedient adj. 服从的，顺从的
+succumb|v.|屈服；屈从 | The president said his country would never succumb to pressure from other countries. | succumb to 屈服于
 ---
-penalty|n.|惩罚；处罚
-fine|n./adj.|罚款/美好的
-mortgage|v./n.|抵押（房屋、土地）借款/房贷
-ownership|n.|所有权；物主身份
+penalty|n.|惩罚；处罚 | What is the penalty for dangerous driving | on penalty of 否则会受。。。处罚，违者会被予以。。。处罚
+fine|n./adj.|罚款/美好的 | The judge imposed a fine of 20 pounds on him
+mortgage|v./n.|抵押（房屋、土地）借款/房贷 | It is easy to get a mortgage on a house
+ownership|n.|所有权；物主身份 | The equity ownership ought to be protected. | equity ownership 股权
 ---
-copyright|n.|版权
-privilege|n.|特权
-accredit|v.|把...归于；委任
+copyright|n.|版权 | He retained the copyright of his book | retain 保留
+privilege|n.|特权 | The privilege was abused 
+accredit|v.|把...归于；委任 | The invention of the electric light is accredited to Edison.
 ---
-clue|n.|线索；提示
-access|n.|通路；查阅（或使用、接近）的机会（或权利）
-anonymous|adj.|匿名的
-false|adj.|不正确的；虚假的；伪造的
-genuine|adj.|真诚的；真正的
+clue|n.|线索；提示 | The police found a clue which helped them catch the robber
+access|n.|通路；查阅（或使用、接近）的机会（或权利） | Citizens have free access to the library | accessible adj. 易到达的；易接近的 have/gain/get access to 得以接近（或进入、查阅、使用）
+anonymous|adj.|匿名的 | He received an anonymous letter
+false|adj.|不正确的；虚假的；伪造的 | Cutting down on libraries seems a false economy to me. | economy n. 经济，节省 falsehood n. 谎言，假话；虚假，说谎
+genuine|adj.|真诚的；真正的 | This medal is made of genuine gold
 ---
-procedure|n.|手续；程序
-routine|n./adj.|例行公事；常规/惯例的
-consequence|n.|后果
+procedure|n.|手续；程序 | The new work procedure is a great improvement on the old one
+routine|n./adj.|例行公事；常规/惯例的 | Our department holds a routine meeting every month.
+consequence|n.|后果 | Your behaviour is of no great consequence | consequent adj. 作为结果的，因之发生的 in consequence 因此，结果
 ---
-demand|v./n.|要求；需要/需求；需求量
-request|n./v.|要求；请求
-require|v.|需要；命令；规定
+demand|v./n.|要求；需要/需求；需求量 | This work demands your patience. | demanding adj. 要求极严的，苛求的 demand for 对。。的需求
+request|n./v.|要求；请求 | We shall give your request out careful consideration. 
+require|v.|需要；命令；规定 | You are required by law to wear a seat belt. | requirement n. 需求，要求
 ---
-petition|v./n.|请求/请愿书；上诉
-command|v./n.|命令；指挥；统率/命令；指挥；控制；运用能力||have a good command of 能自如地运用
-instruct|v.|指导；讲授；通知；命令
+petition|v./n.|请求/请愿书；上诉 | The villagers all signed a petition for a hospital to be built.
+command|v./n.|命令；指挥；统率/命令；指挥；控制；运用能力|The army is under the king's command|have a good command of 能自如地运用
+instruct|v.|指导；讲授；通知；命令 | The tour guide instructed the tourists in customs regulations. | instruction n. 指示，指令
 ===
 沙场争锋
 +++
