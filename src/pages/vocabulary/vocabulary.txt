@@ -3332,58 +3332,58 @@ instruct|v.|指导；讲授；通知；命令 | The tour guide instructed the to
 ===
 沙场争锋
 +++
-violence|n.|暴力
-conflict|n./v.|斗争，冲突/冲突
+violence|n.|暴力| The french government today called for an end to the violence | violent adj. 猛烈的；暴力的
+conflict|n./v.|斗争，冲突/冲突 | Many people feel that religion conflicts with science. | a conflict of interest 利益冲突
 raid|n./v.|突袭；突然搜查|We launched a bombing raid on enemy bases.|carry out a raid 实施突然袭击
 enormity|n.|巨大；滔天大罪|The enormity of the crime has shocked even experienced policeman|the enormity of the task 任务的艰巨性
 ---
-campaign|n./v.|战役；（社会、政治）运动/参加（或领导）运动||orginze a compaign
-battle|n./v.|战斗，战役/与...战斗
-struggle|v./n.|挣扎；奋力；奋斗
+campaign|n./v.|战役；（社会、政治）运动/参加（或领导）运动|Those people are campaigning for equal rights for women|orginze a compaign 组织一场运动
+battle|n./v.|战斗，战役/与...战斗 | Life is a battle from cradle to grave | cradle n. 摇篮、发源地
+struggle|v./n.|挣扎；奋力；奋斗 | His father struggled to control his temper. | struggle against 与。。。抗争
 ---
-explosion|n.|爆发；迸发；爆炸；激增
+explosion|n.|爆发；迸发；爆炸；激增 | The explosion was caused by a burst gas pipe | explode v. 爆炸；爆发 explosive adj. 爆炸性的；可能引起爆炸的 a population explosion 人口激增
 bombard|v.|轰击，轰炸；连珠炮般指纹（或批评）|The speaker was bombarded with questions
-bomb|n./v.|炸弹/轰炸
+bomb|n./v.|炸弹/轰炸 | The terrorists planted a bomb in the past office. | set off a bomb 引爆炸弹
 ---
 blast|n./v.|爆炸/爆炸，炸毁|It's thought that the blast occurred when volatile chemicals exploded.|volatile adj. 不稳定的；易变的；易怒的，喜怒无常的；（液体或固体）易挥发的，易气化的
-burst|v./n.|爆裂，展开/迸发，爆裂||go burst 破产。burst on 突然在...出现
-spark|n.|火花，火星|A single spark can start prairie fire. 星星之火可以燎原|prairie n.（加拿大和美国北部的）大草原
-twinkle|n./v.|闪烁，闪耀
+burst|v./n.|爆裂，展开/迸发，爆裂|Prices went up and up in those years, before the housing bubble burst.|go burst 破产。burst on 突然在...出现
+spark|n.|火花，火星|A single spark can start prairie fire. 星星之火可以燎原|prairie n.（加拿大和美国北部的）大草原 sparkle v. 闪闪发光，闪耀；聪明活泼
+twinkle|n./v.|闪烁，闪耀 | We could see the distant twinkle of the harbour lights.
 ---
-gunpowder|n.|火药
-tank|n.|坦克；罐，槽，缸
-cannon|n.|大炮，加农炮||fire a cannon 开炮
+gunpowder|n.|火药 | Gunpowder was used for military purposes in China as far back as the 10th century. | powder n. 粉末；火药
+tank|n.|坦克；罐，槽，缸 | The tank got bogged down in the mud. | bog v. 陷于泥沼
+cannon|n.|大炮，加农炮|Their fighter planes are all armed with cannons|fire a cannon 开炮
 missile|n.|导弹；投掷物|A hand-grenade is a missile weapon 手榴弹是一种投掷武器|fire a missile 发射导弹
 ---
-weapon|n.|武器；兵器；手段
-pistol|n.|手枪
-rifle|n.|步枪
-bullet|n.|子弹
+weapon|n.|武器；兵器；手段 | Their ultimate weapon was the threat of an all-out strike | ultimate adj. 最终的，最后的
+pistol|n.|手枪 | The robber took a pistol out of his pocket and pointed it at the shopkeeper.
+rifle|n.|步枪 | He accidentally triggered his rifle. | accidentally adv. 意外地，偶然地
+bullet|n.|子弹 | The bullet hit him in the leg | bite the bullet 咬紧牙关应付
 ---
-target|n.|靶子；目标
-deflect|v.|（使）偏斜，（使）偏转；转移|The bullet struck a wall and deflected from it's course|deflection n. 偏转；偏斜
-mission|n.|使命；重要任务；传教团||missionary n. 传教士
+target|n.|靶子；目标 | The hunter's target was a wild beast | on target 击中要害的，完全准确的 hit a target 达到目标
+deflect|v.|（使）偏斜，（使）偏转；转移|The bullet struck a wall and deflected from it's course|deflection n. 偏转；偏斜 course n. 课程，航线，进程
+mission|n.|使命；重要任务；传教团|He has been on confidential missions to Berlin|missionary n. 传教士 confidential adj. 保密的，机密的
 ---
-flame|n.|火焰；强烈的情感
-flare|n./v.|（闪耀的）火光；闪光信号灯/闪耀||a flare of anger 怒气的爆发
+flame|n.|火焰；强烈的情感 | It's been dry for so long that the forest could burst into flames at any moment
+flare|n./v.|（闪耀的）火光；闪光信号灯/闪耀|The flare of the match lit up the little girl's face|a flare of anger 怒气的爆发 
 glitter|v./n.|闪烁；闪现/发光小物|The diamond ring on her finger glittered in the moonlight|glittery adj. 闪闪发亮的
 glow|v./n.|发出微弱稳定的光/微弱稳定的光|Maple leaves glowed red in the sunlight 枫叶在阳光里闪耀着红光
 ---
-blade|n.|刃；锋；（螺旋桨的）叶片
-sword|n.|刀；剑||draw a sword 拔剑
-ax|n.|斧头
-hammer|n./v.|锤，榔头/用锤击
+blade|n.|刃；锋；（螺旋桨的）叶片 | The blades of the electric fan are covered with dust.
+sword|n.|刀；剑 | Fame can be a double-edged sword. | fame n. 名声 draw a sword 拔剑
+ax|n.|斧头|He cut a hole through the wall with an ax
+hammer|n./v.|锤，榔头/用锤击 | He hammered a nail into the wall with a hammer. | hammer sth. into sb. 向某人反复强调某种思想、观点等
 ---
-bow|n.|弓；蝴蝶结
+bow|n.|弓；蝴蝶结 | At that time, people hunted with bows and arrows.
 arrow|n.|箭头，箭|The arrow pierced her shoulder|pierce v. 刺入；刺穿
-spear|n./v.|矛；标枪/用尖物刺穿
-helmet|n.|头盔
-shield|n./v.|盾；防护物/保护
+spear|n./v.|矛；标枪/用尖物刺穿 | The athlete is trying to launch a spear
+helmet|n.|头盔 | All visitors to the site must wear safety helmets
+shield|n./v.|盾；防护物/保护 | The shield protected the warrior from the blows of his enemy. | warrior n. 战士
 ---
-equip|v.|配备，装备||be equipped for 准备好，对...有所准备。be equipped with 装备有
-prepare|v.|使预备好，为...做准备
-provide|v.|供给；提供
-deploy|v.|部署
+equip|v.|配备，装备|He equipped himself for an expedition to the jungle|be equipped for 准备好，对...有所准备。be equipped with 装备有 expedition n. 远征，考察
+prepare|v.|使预备好，为...做准备 | The defence lawyers asked for another week to prepare for their case. | preparation n. 准备，预备； prepare for 为。。。做准备
+provide|v.|供给；提供 | The hotel provides a reservation of tickets for its residents | resident n. 居民，居住的
+deploy|v.|部署 | The general ordered his men to deploy in order to meet the offensive of the enemy
 ---
 hit|v./n.|打，击，碰撞/打，击中||hit a level 达到一个水平
 beat|v./n.|打；打败；（心脏等）跳动/节拍；击鼓声||beat a record 打破纪录
