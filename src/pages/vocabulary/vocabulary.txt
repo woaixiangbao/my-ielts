@@ -3385,51 +3385,51 @@ prepare|v.|使预备好，为...做准备 | The defence lawyers asked for anothe
 provide|v.|供给；提供 | The hotel provides a reservation of tickets for its residents | resident n. 居民，居住的
 deploy|v.|部署 | The general ordered his men to deploy in order to meet the offensive of the enemy
 ---
-hit|v./n.|打，击，碰撞/打，击中||hit a level 达到一个水平
-beat|v./n.|打；打败；（心脏等）跳动/节拍；击鼓声||beat a record 打破纪录
+hit|v./n.|打，击，碰撞/打，击中|They insisted that food and medical supplies should be given on the worst hit areas|hit a level 达到一个水平
+beat|v./n.|打；打败；（心脏等）跳动/节拍；击鼓声|If we don't prepare for the debate, they will beat us.|beat a record 打破纪录
 strike|v./n.|打，击，突击；罢工/罢工；打击|The strike has delivered a heavy blow to the management 这场罢工给了资方一个沉重的打击|strike against 为反对...而罢工
 ---
-punch|n./v.|打孔机；重拳打击/给...打孔；拳打|Spectators cheered at his KO punch 观众为他击倒对手的一拳而喝彩|punch in/out 上下班打卡。punch sb. on 击打在某人的...上
-chop|v.|切碎（食物）；劈（木头）||chop away 砍掉，切掉
-stab|v./n.|刺；戳
+punch|n./v.|打孔机；重拳打击/给...打孔；拳打|Spectators cheered at his KO punch 观众为他击倒对手的一拳而喝彩|punch in/out 上下班打卡。punch sb. on 击打在某人的...上 spectator n. 观众
+chop|v.|切碎（食物）；劈（木头）|Onions must be chopped up to make a salad.|chop away 砍掉，切掉
+stab|v./n.|刺；戳 | She stabbed him in the leg with a knife | stab at （用刀等）刺
 ---
-dilemma|n.| /daɪˈlem.ə/ /dɪˈlem.ə/（进退两难的）困境
-plight|n.|困境；誓约|This article drew attention to the plight of the unemployed
+dilemma|n.| /daɪˈlem.ə/ /dɪˈlem.ə/（进退两难的）困境 | The man has a scheduling conflict, so now he is in dilemma 
+plight|n.|困境；誓约|This article drew attention to the plight of the unemployed | This article drew attention to the plight of the unemployed
 pitfall|n.|陷阱；危险；困难|The lawer gave me advice on how to avoid the pitfall of the legal process
-conspiracy|n.|阴谋；密谋；合谋||conspire v. 密谋
+conspiracy|n.|阴谋；密谋；合谋|The conspiracy of the assassination of the presient was brought to light in time|conspire v. 密谋
 ---
 destitute|adj.|赤贫的；一无所有的，缺乏|The floods left many people destitute 水灾使很多人一无所有|be destitute of 缺乏
 famine|n.|饥荒|Many people died of famine that year
-starve|v.|使挨饿；饿死||starvation n. 饥饿，极度饥饿
+starve|v.|使挨饿；饿死|They besieged the town and tried to starve the army into surrender|starvation n. 饥饿，极度饥饿 besiege v. 包围，围困
 ---
-deprive|v.|剥夺||deprivation n. 剥夺，丧失。~ sb. of sth. 剥夺某人的某事物
-seize|v.|抓住；夺取||seize on 抓住，利用。seize a moment 抓住时机
-pursue|v.|追赶||pursuit n. 追赶，追求，爱好。pursue pleasure 寻欢作乐
+deprive|v.|剥夺|Sickness deprived me of the pleasure of travelling overseas|deprivation n. 剥夺，丧失。~ sb. of sth. 剥夺某人的某事物
+seize|v.|抓住；夺取|Uncontrollable laughter seized us up|seize on 抓住，利用。seize a moment 抓住时机
+pursue|v.|追赶|Why should we even have to decide whether to pursue truth|pursuit n. 追赶，追求，爱好。pursue pleasure 寻欢作乐
 ---
-threat|n.|威胁；恐吓||threaten v. 威胁；恐吓
-offend|v.|冒犯；犯罪；违反
-aggressive|adj.|侵略的；好斗的
+threat|n.|威胁；恐吓|The United Nations is trying to free the world from the threat of war|threaten v. 威胁；恐吓
+offend|v.|冒犯；犯罪；违反 | We mustn't offend the local customs | offender n. 罪犯；冒犯者 offend against 违反（法律、原则等），有悖于
+aggressive|adj.|侵略的；好斗的 | The world dooms itself to war because man is aggressive at heart.
 ---
-invade|v.|入侵；侵略；侵扰
-trespass|v./n.|非法入侵/罪过，非法入侵
+invade|v.|入侵；侵略；侵扰 | They are determined to resist the invading armies. | determine v. 下定决心 resist v. 抵制，反抗 invasion n. 侵犯 invader n. 侵略者 invasive adj. （尤指体内疾病）侵袭的，扩散的 invade privacy 侵犯隐私
+trespass|v./n.|非法入侵/罪过，非法入侵 |  The farmer said we were trespassing on private land
 intrude|v.|闯入，侵入，侵扰|Employers should not intrude into the private lives of their employees
-violate|v.|违反；违背；侵犯；搅扰
+violate|v.|违反；违背；侵犯；搅扰 | The sound of guns violated the usual calm of a Sunday morning. | violation n. 违反，违背 violate a law 犯法
 ---
-attack|v./n.|攻击；进攻||~ sb. by words 用语言抨击某人
-assault|n./v.|猛攻；（身体）侵犯/袭击||an ~ on/against 对...的（人身）侵犯
-challenge|n./v.|挑战/向...挑战||challenging adj. 有挑战性的；挑衅的。face a ~ 遇到挑战。accept a ~ 接受挑战
+attack|v./n.|攻击；进攻|The police are launching a major attack on drug dealers|~ sb. by words 用语言抨击某人
+assault|n./v.|猛攻；（身体）侵犯/袭击|He was accused of sexual assault|an ~ on/against 对...的（人身）侵犯
+challenge|n./v.|挑战/向...挑战|He challenged me to play another tennis game|challenging adj. 有挑战性的；挑衅的。face a ~ 遇到挑战。accept a ~ 接受挑战
 ---
-siege|n.|包围，围攻|The TV station has been under siege from irate viewers phoning in to complain 电视被愤怒的观众围攻，一直打电话来抱怨
-surround|v.|包围；环绕
-enclose|v.|围住；包围；把...封入信封；随信附上||~ sth. with a letter 随信附上某物
+siege|n.|包围，围攻|The TV station has been under siege from irate viewers phoning in to complain 电视被愤怒的观众围攻，一直打电话来抱怨 | irate adj. 生气的，发怒的
+surround|v.|包围；环绕|They have surrounded the town with troops. | troop n. 军队，士兵
+enclose|v.|围住；包围；把...封入信封；随信附上|The writer's house is encloused by a wall|~ sth. with a letter 随信附上某物
 ---
-pause|n./v.|暂停，停顿
+pause|n./v.|暂停，停顿|After she ran up the hill, she paused for a minute to rest. | come to a pause 暂停
 halt|v./n.|（使）停止/停止|The cab rolled to a halt before the hotel 计程车缓缓地停在了酒店前|halter n. 🐴的缰绳。halt the advance of history 阻挡历史的前进
 cease|v.|终止；停止|At last, they ceased working for lack of capital 他们最终由于缺乏资金停工了|~ fire 停火
 ---
-oppose|v.|反对，抵制
-oppress|v.|压迫；压制；使压抑||oppressive adj. 压制的，压迫的
-counter|v./adv./n.|抵消；反击；反驳/相反的/柜台；工作台
+oppose|v.|反对，抵制|The employees opposed their company's new policies | opponent n. 对手，敌手；反对者 opposite adj. 相反的；对面的 n. 对立面
+oppress|v.|压迫；压制；使压抑|The king oppressed his people with terrible taxes and punishments|oppressive adj. 压制的，压迫的
+counter|v./adv./n.|抵消；反击；反驳/相反的/柜台；工作台 | My colleague countered my proposal with one of his own.
 ---
 deter|v.|阻止；威慑住
 forbid|v.|禁止；阻止
