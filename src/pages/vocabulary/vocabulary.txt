@@ -3437,14 +3437,14 @@ prohibit|v.|禁止；不允许
 prevent|v.|预防，防止；阻止，阻碍
 ---
 revolt|n./v.|叛乱；反抗|Autocracy often causes the people to revolt 独裁统治常常引起人民的反抗|revoltive adj. 厌恶的，反感的。rise in revolt 发生叛乱
-betray|v.|背叛；出卖；（无意中）泄露；流露出||betrayal n. 背叛，出卖
-treason|n.|叛国罪；通敌罪
+betray|v.|背叛；出卖；（无意中）泄露；流露出|They have promised never to betray the organisation.|betrayal n. 背叛，出卖 betray one's country 背叛某人的国家 betray a secret
+treason|n.|叛国罪；通敌罪 | They have committed treason against the state.
 ---
-rebel|n./v.|反叛者；叛逆者/造反；反抗；反对
-traitor|n.|叛徒，卖国贼
-patriot|n.|爱国者
+rebel|n./v.|反叛者；叛逆者/造反；反抗；反对 | The rebels made regular attacks on the railways. | rebellion n. 造反，叛乱；反抗 rebel against sth. 反对某事
+traitor|n.|叛徒，卖国贼 | He stuck a knife into the traitor's heart.
+patriot|n.|爱国者|A true patriot will never betray his country. | patriotism n. 爱国主义
 ---
-blame|v./n.|责备，指责/（对坏事应负的）责任
+blame|v./n.|责备，指责/（对坏事应负的）责任 | Bad workman often blame their tools. | blame sth. on sb./sth. 把某事归咎于某人/某事
 reproach|n./v.|责备；指责|His manners are beyond reproach 他的举止无可指摘|bring reproach on oneself 让自己丢脸
 evidence|n.|证据；根据
 proof|n.|证明，证据
