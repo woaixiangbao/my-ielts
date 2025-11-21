@@ -3431,17 +3431,17 @@ oppose|v.|反对，抵制|The employees opposed their company's new policies | o
 oppress|v.|压迫；压制；使压抑|The king oppressed his people with terrible taxes and punishments|oppressive adj. 压制的，压迫的
 counter|v./adv./n.|抵消；反击；反驳/相反的/柜台；工作台 | My colleague countered my proposal with one of his own.
 ---
-deter|v.|阻止；威慑住
-forbid|v.|禁止；阻止
-prohibit|v.|禁止；不允许
-prevent|v.|预防，防止；阻止，阻碍
+deter|v.|阻止；威慑住|The security camera was installed to deter people from stealing. | deter sb. from doing sth. 阻止某人做某事
+forbid|v.|禁止；阻止|Lack of time forbids any further discussion on this issue. | forbid sb. doing sth. / to do sth. 禁止某人做某事
+prohibit|v.|禁止；不允许| Smoking is stricktly prohibited in the process of handing explosive materials. | prohibition n. 禁止；禁令 prohibit sb. doing sth. 禁止某人做某事 
+prevent|v.|预防，防止；阻止，阻碍 | Scientists are trying to find ways to prevent the disease from spreading. | prevention n. 预防，防范
 ---
 revolt|n./v.|叛乱；反抗|Autocracy often causes the people to revolt 独裁统治常常引起人民的反抗|revoltive adj. 厌恶的，反感的。rise in revolt 发生叛乱
-betray|v.|背叛；出卖；（无意中）泄露；流露出||betrayal n. 背叛，出卖
-treason|n.|叛国罪；通敌罪
+betray|v.|背叛；出卖；（无意中）泄露；流露出|They have promised never to betray the organisation.|betrayal n. 背叛，出卖 betray one's country 背叛某人的国家 betray a secret 泄露秘密
+treason|n.|叛国罪；通敌罪 | They have committed treason against the state.
 ---
-rebel|n./v.|反叛者；叛逆者/造反；反抗；反对
-traitor|n.|叛徒，卖国贼
+rebel|n./v.|反叛者；叛逆者/造反；反抗；反对 | The rebels made regular attacks on the railways. | rebellion n. 造反，叛乱；反抗 rebel against sth.  反对某事
+traitor|n.|叛徒，卖国贼 | He stuck a knife into the traitor's heart.
 patriot|n.|爱国者
 ---
 blame|v./n.|责备，指责/（对坏事应负的）责任
