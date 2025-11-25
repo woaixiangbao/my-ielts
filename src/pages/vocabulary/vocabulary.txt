@@ -3481,21 +3481,21 @@ tactic|n.|策略，战术 | Reducing prices is a common sales tactic. | win by s
 maneuver/manoeuvre|n.|策略；技巧；[~s]军事演习|The army is doing maneuvers at sea
 blueprint|n.|蓝图；行动计划 | The construction of a concert hall is still in the blueprint stage.
 ---
-warn|v.|警告；告诫
-compel|v.|强迫；迫使
+warn|v.|警告；告诫 | They warned her that if she did it again she would be sent to prison.  | warning n. 警告 warn ab. about the danger of 
+compel|v.|强迫；迫使 | I was compelled to find a part-time job because I needed money.
 oblige|v.|迫使；强迫；帮忙|The law obliges parent to send their children to school|obligation n. 义务；责任
 ---
-order|n./v.|次序；整齐/命令
-protest|n./v.|抗议；申明/抗议；申辩
+order|n./v.|次序；整齐/命令 | Some teachers find it difficult to keep order in class | disorder n. 混乱，杂乱 orderly adj. 整洁的；有秩序的
+protest|n./v.|抗议；申明/抗议；申辩 | The diners protested about the bad service at the restaurant. | protestor n. 抗议者 protest against 抗议，反对
 refute|v.|反驳；驳斥；否认|He had hardly finished when someone rose to refute his points 他还没有说完，就有人起来驳斥他的观点|refute sb.'s argument/claim 驳斥某人的论点/说法
 ---
-might|n.|力量，威力
-force|n./v.|力量；武力/强迫；迫使
-reinforce|v.|增援；增强；加强；加固
+might|n.|力量，威力 | We fear the military might of the enemy. 
+force|n./v.|力量；武力/强迫；迫使 | We'll settle the problem by force if necessary. | come into force 开始生效，开始实行
+reinforce|v.|增援；增强；加强；加固 | If concrete has steel bars inside it, it is known as reinforced concrete. | reinforce supply 增加供给
 ---
 impair|v.|削弱；妨碍|If a witness is allowed to withhold information, it impairs the legal process 如果允许证人知情不报，会妨碍法律程序
 mitigate|v.|减轻；缓和|Nothing could mitigate the cruelty with which she had treated him 她对他太残暴了，没有什么能为她开脱|mitigation n. 缓和；减轻
-comfort|n./v.|安慰；舒适/缓和抚慰
+comfort|n./v.|安慰；舒适/缓和抚慰 | A father is a treasure; a brother is a comfort;but a friend is both. | comfortable adj. 舒适的，舒服的 seek comfort 寻求安慰
 ---
 event|n.|事件；大事；公开活动
 matter|n./v.|事情；物质/要紧||as a matter of fact 事实上
