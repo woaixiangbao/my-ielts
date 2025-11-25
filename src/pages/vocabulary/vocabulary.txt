@@ -3437,49 +3437,49 @@ prohibit|v.|禁止；不允许| Smoking is stricktly prohibited in the process o
 prevent|v.|预防，防止；阻止，阻碍 | Scientists are trying to find ways to prevent the disease from spreading. | prevention n. 预防，防范
 ---
 revolt|n./v.|叛乱；反抗|Autocracy often causes the people to revolt 独裁统治常常引起人民的反抗|revoltive adj. 厌恶的，反感的。rise in revolt 发生叛乱
-betray|v.|背叛；出卖；（无意中）泄露；流露出||betrayal n. 背叛，出卖
-treason|n.|叛国罪；通敌罪
+betray|v.|背叛；出卖；（无意中）泄露；流露出|They have promised never to betray the organisation|betrayal n. 背叛，出卖 betray one's country 背叛某人的国家 betray a secret 泄露秘密
+treason|n.|叛国罪；通敌罪 | They have committed treason against the state. 
 ---
-rebel|n./v.|反叛者；叛逆者/造反；反抗；反对
-traitor|n.|叛徒，卖国贼
-patriot|n.|爱国者
+rebel|n./v.|反叛者；叛逆者/造反；反抗；反对 | The rebels made regular attacks on the railways. | rebellion n. 造反，叛乱；反抗 rebel against sth. 反对某事
+traitor|n.|叛徒，卖国贼|He stuck a knife into the traitor's heart
+patriot|n.|爱国者 | A true patriot will never betray his country. | patriotism n. 爱国主义
 ---
 blame|v./n.|责备，指责/（对坏事应负的）责任 | Bad workman often blame their tools. | blame sth. on sb./sth. 把某事归咎于某人/某事
 reproach|n./v.|责备；指责|His manners are beyond reproach 他的举止无可指摘|bring reproach on oneself 让自己丢脸
-evidence|n.|证据；根据
-proof|n.|证明，证据
+evidence|n.|证据；根据 | Can you show me any evidence for your statement | evident adj. 明显的，明白的 written evidence 书面证据
+proof|n.|证明，证据 | Have you got any proof that you own this handbag | prove v. 证明；结果是
 ---
-terror|n.|恐惧；恐慌||terrorist n. 恐怖分子。in terror 惊慌地
-terrible|adj.|可怕的；糟糕的；极严重的
-terrific|adj.|极好的；很大的；很强的
-horrible|adj.|可怕的；恐怖的
+terror|n.|恐惧；恐慌|His terror is so intense that he can't do anything|terrorist n. 恐怖分子。in terror 惊慌地
+terrible|adj.|可怕的；糟糕的；极严重的 | The earthquake was a terrible catastrophe.
+terrific|adj.|极好的；很大的；很强的 | The ceiling came down with a terrific crash.
+horrible|adj.|可怕的；恐怖的 | There was a herrible accident here yesterday. | horror n. 恐怖的；恐惧 horribly adv. 可怕地；非常
 ---
-alarm|n.|惊恐；犹豫；报警；报警器
+alarm|n.|惊恐；犹豫；报警；报警器|The instant they heard the alarm, they fell in for action. | raise an alarm 发出警报
 dread|v./n.|极为害怕；非常担心/恐惧忧愁|I dread to think what will happen if she finds out the truth|dreadful adj. 可怕的，糟透的
-frighten|v.|使害怕；使惊恐
+frighten|v.|使害怕；使惊恐 | He frightened the old man iinto giving him all the money | fright n. 惊骇，惊恐 be frightened at 害怕
 ---
 tension|n.|紧张；拉紧状态|Tension mounted as we waited for the exam results to be published 在我们等待公布考试成绩时，气氛越来越紧张|tense adj. 绷紧的；紧张的。ease the tension 缓和紧张局势
-turbulent|adj.|动荡的；混乱的；汹涌的||turbulence n. 动荡；骚乱。a turbulent period 动荡时期
+turbulent|adj.|动荡的；混乱的；汹涌的|The sea was too turbulent for us to set sail.|turbulence n. 动荡；骚乱。a turbulent period 动荡时期
 turmoil|n.|混乱，骚乱|The demostration turned into turmoil 示威演变成了骚乱
-scenario|n.|可能发生的情况；剧情梗概；脚本
+scenario|n.|可能发生的情况；剧情梗概；脚本 | Imagine a scenario where only 20% of people have a job.
 occasion|n.|场合；时机；机会|A wedding is a very happy occasion|occasionally adv. 偶尔；时而。on occasion 有时；不时
 ---
-limit|n./v.|限度；界限/限制，限定
-boundary|n.|分界线，边界；界限
+limit|n./v.|限度；界限/限制，限定 | I'll help as much as I can, but there is a limit to what I can do. | limited adj. 有限的 limitation n. 限制
+boundary|n.|分界线，边界；界限 | The river is the boundary between the two countries. | within the boundary of 在。。。范围内
 rein|n./v.|缰绳；控制权/用缰绳勒马；管束|The hourse responds to the slightest pull on the rein|give free rein to 放任，对...不加约束
 ---
-compete|v.|竞争；参加（比赛）
-contest|v./n.|争取赢得；争辩/竞争；比赛||contestant n. 参赛者。a contest with 与...的竞争
-contend|v.|竞争；争辩；主张
+compete|v.|竞争；参加（比赛） | Our products must be able to compete in the marketplace | competition n. 竞争；比赛 competent adj. 能胜任的，有能力的 compete against 与。。。进行竞争
+contest|v./n.|争取赢得；争辩/竞争；比赛|If the election is one-sided, it is really no contest.|contestant n. 参赛者。a contest with 与...的竞争
+contend|v.|竞争；争辩；主张 | He contended that it was not his fault.
 ---
-rival|n./v.|竞争者；对手/与...匹敌||rivalry n. 竞争，敌对状态
-competitor|n.|竞争者；对手
-enemy|n.|敌人；仇敌；敌军
+rival|n./v.|竞争者；对手/与...匹敌|She and I are rivals for the swimming prize.|rivalry n. 竞争，敌对状态 defeat one's rival 击败某人的对手
+competitor|n.|竞争者；对手 | The company is a strong competitor of ours | compete v. 竞争 competition n. 竞争
+enemy|n.|敌人；仇敌；敌军 | Disease is an enemy of mankind.
 ---
-strategy|n.|策略；战略
-tactic|n.|策略，战术
+strategy|n.|策略；战略|Mao zedong was a great strategist and skilled in developing military strategies | strategic adj. 战略上的 strategist n. 战略家 strategy and tactics 战略与战术
+tactic|n.|策略，战术 | Reducing prices is a common sales tactic. | win by surprise tactics 出奇制胜
 maneuver/manoeuvre|n.|策略；技巧；[~s]军事演习|The army is doing maneuvers at sea
-blueprint|n.|蓝图；行动计划
+blueprint|n.|蓝图；行动计划 | The construction of a concert hall is still in the blueprint stage.
 ---
 warn|v.|警告；告诫
 compel|v.|强迫；迫使
