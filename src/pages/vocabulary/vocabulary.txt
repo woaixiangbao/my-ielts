@@ -3507,21 +3507,21 @@ reckless|adj.|鲁莽的；不计后果的|He is very reckless when he is drunk|r
 fierce|adj.|凶猛的；猛烈的；（天气或温度）恶劣的|They launched a fierce attack against the enemy position 他们向敌人的阵地发起了猛烈的进攻
 ---
 foul|adj./v.|恶臭的；恶劣的；邪恶的/弄脏；对...犯规|The foul weather spoiled our vacation 恶劣的天气毁了我们的假期|a foul deed 邪恶的行为
-evil|n./adj.|邪恶；祸害/邪恶的
-devil|n.|魔鬼；恶棍
+evil|n./adj.|邪恶；祸害/邪恶的 |Money is thought to be the root cause of all evils. | an evil thought 
+devil|n.|魔鬼；恶棍 | That enemy officer is the devil incarnate | incarnate adj. 人体化的，拟人化的
 ---
-punishment|n.|惩罚；处罚
-execute|v.|实行，执行；处死
-hang|n.|悬挂；悬浮；（被）绞死||hang oneself 自缢
+punishment|n.|惩罚；处罚 | Punishment had very little effect on him | punish v. 惩罚 receive punishment 遭到惩罚
+execute|v.|实行，执行；处死 | We can execute the big volume of orders in 20 days. | executive adj. 经营管理的；执行的 n. 管理人员 execution n. 实行，执行；处决 execute a command 执行命令
+hang|n.|悬挂；悬浮；（被）绞死|He was hanged for murder. |hang oneself 自缢
 ---
-sacrifice|n./v.|牺牲；献祭/牺牲；以...为祭品
-casualty|n.|伤亡人员
-bury|v.|埋葬
-funeral|n.|葬礼
+sacrifice|n./v.|牺牲；献祭/牺牲；以...为祭品 | I would never dream of asking you to make such a sacrifice. | make all sacrifices 不惜牺牲一切 sacrifice sth. for 为。。牺牲某物
+casualty|n.|伤亡人员 | In the Iran-Iraq war, both sides incurred heavy casualties.
+bury|v.|埋葬 | He felt lonely after he burried his good friend. | bury oneself in 专心致志于
+funeral|n.|葬礼  | Funeral customs vary with different religions. | announce the funeral 敲响丧钟
 ---
-grave|n./adj.|坟墓；死亡/庄重的；严肃的
-tomb|n.|坟墓；塚
-hell|n.|地狱；苦境
+grave|n./adj.|坟墓；死亡/庄重的；严肃的 | The lady's grave is made of granite
+tomb|n.|坟墓；塚 | Many things left by the ancient people in tombs haven't been brought to light.
+hell|n.|地狱；苦境 | The priest said they would go to hell for their sins. | go to hell 下地狱；见鬼去吧
 ---
 maritime|adj.|海的，海上的，海事的|That maritime peril happened at night|maritime court 海事法庭
 naval|adj.|海军的||navy n. 海军
