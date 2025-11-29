@@ -3523,15 +3523,15 @@ grave|n./adj.|坟墓；死亡/庄重的；严肃的 | The lady's grave is made o
 tomb|n.|坟墓；塚 | Many things left by the ancient people in tombs haven't been brought to light.
 hell|n.|地狱；苦境 | The priest said they would go to hell for their sins. | go to hell 下地狱；见鬼去吧
 ---
-maritime|adj.|海的，海上的，海事的|That maritime peril happened at night|maritime court 海事法庭
-naval|adj.|海军的||navy n. 海军
-fleet|n.|舰队，船队；机群，车队
+maritime|adj.|海的，海上的，海事的|That maritime peril happened at night|maritime court 海事法庭 peril n. 危险，危难
+naval|adj.|海军的|He took part in a great naval battle|navy n. 海军
+fleet|n.|舰队，船队；机群，车队 | The general ordered the fleet to remain where they were and wait for the further instructions.
 ---
-troop|n./v.|一群，一对；[~s]军队/结队前行
-landing|n.|着陆；登陆
-hover|v.|盘旋，悬浮；徘徊；处于不确定状态
-proceed|v.|接下来做；继续进行；行进
-progress|n./v.|前进；进步；进程/前进；进步
+troop|n./v.|一群，一对；[~s]军队/结队前行 | The troops made good their retreat from the occupied city. | retreat n. 撤退 troop into 成群结队地走进
+landing|n.|着陆；登陆 | The plane circled over the airport before landing. | a landing field 降落场
+hover|v.|盘旋，悬浮；徘徊；处于不确定状态 | The helicopter is hovering over the crowd.
+proceed|v.|接下来做；继续进行；行进 | The conference proceeded in a very friendly atmosphere. | proceed with 继续进行
+progress|n./v.|前进；进步；进程/前进；进步 | The building of the largest bridge across a river in that country is in progress. | progressive adj. 进步的；向前进的 in progress 正在进行中 make progress 取得进步
 ---
 military|adj.|军事的，军用的
 nuclear|adj.|原子核的；核能的；核武器的
