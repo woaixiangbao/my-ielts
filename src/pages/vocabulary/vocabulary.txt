@@ -3533,46 +3533,46 @@ hover|v.|盘旋，悬浮；徘徊；处于不确定状态 | The helicopter is ho
 proceed|v.|接下来做；继续进行；行进 | The conference proceeded in a very friendly atmosphere. | proceed with 继续进行
 progress|n./v.|前进；进步；进程/前进；进步 | The building of the largest bridge across a river in that country is in progress. | progressive adj. 进步的；向前进的 in progress 正在进行中 make progress 取得进步
 ---
-military|adj.|军事的，军用的
-nuclear|adj.|原子核的；核能的；核武器的
-poison|n./v.|毒物，毒药/毒害
+military|adj.|军事的，军用的 | According to the consitution of the country, all the young men should do a year's military service. | military service 兵役 military time 24小时制
+nuclear|adj.|原子核的；核能的；核武器的 | Nowadays more and more people prefer a nuclear family to an extended family. | a nuclear family 核心家庭 a nuclear bomb 核弹 nuclear energy 核能 nuclear fuel 核燃料 a nuclear reactor 核反应堆 a nuclear weapon 核武器
+poison|n./v.|毒物，毒药/毒害 | Spiritual rubbish can poison the children's pure minds. | poisonous adj. 有毒的；有害的 poison sb. against sb./sth. 使某人/某物有负面看法，使某人仇视某人/某物
 devastate|v.|毁坏，摧毁|They intended to devastate the town at a stroke|devastation n. （尤指大面积）破坏。devastating adj. 毁灭性的
 ---
-risk|n./v.|危险，风险/冒着...的危险
-adventure|n./v.|冒险，冒险尽量/去（某地）探险
-peril|n.|重大危险，险情，危险|Preparedness averts peril|avert v. 防止，避免。at one's (own) peril 自担风险
-catastrophe|n.|重大灾难，大祸
-collapse|n./v.|倒塌，崩溃
+risk|n./v.|危险，风险/冒着...的危险 | If you don't warm up before taking exercise, you risk injuring yourself. | at risk 有危险 at one's own risk 自担风险
+adventure|n./v.|冒险，冒险尽量/去（某地）探险 | All the children were listening to her adventures with eager attention 
+peril|n.|重大危险，险情，危险|Preparedness averts peril 有备无患|avert v. 防止，避免。at one's (own) peril 自担风险 Preparedness n. 有准备，已准备
+catastrophe|n.|重大灾难，大祸 | Their party turned out to be a catastrophe.
+collapse|n./v.|倒塌，崩溃 | The man lost all his money in the collapse of the stock market.
 ---
-torture|n./v.|拷问，痛苦，折磨/拷问，使痛苦
-humiliate|v.|羞辱；使蒙羞
-damage|n./v.|损害；伤害
-harmful|adj.|有害的
+torture|n./v.|拷问，痛苦，折磨/拷问，使痛苦 | She suffered the torture of toothache. | severe torture 严刑拷打 severe adj. 严厉的，十分严重的
+humiliate|v.|羞辱；使蒙羞 | The team was humiliated in the recent game.
+damage|n./v.|损害；伤害 | An earthquake sometimes causes extensive damage to a town. | do damage to 损害
+harmful|adj.|有害的 | A freezing winter is harmful to orange trees. | harm n. 害处，伤害
 ---
-mislead|v.|误导，欺骗，使误入歧途
-disturb|v.|打扰，使焦虑，弄乱
-interfere|v.|干涉；妨碍
-interrupt|v.|打断；中断
+mislead|v.|误导，欺骗，使误入歧途 | A description about a product should not mislead the consumers. | mislead sb. into doing sth. 误导某人做某事
+disturb|v.|打扰，使焦虑，弄乱 | A soft breeze gently disturbed the surface of the pool. | disturbance n. 干扰；骚乱
+interfere|v.|干涉；妨碍 | Don't allow pleasure to interfere with duty. 不要让娱乐妨碍了指责。 | interference n. 干扰，干预；妨碍 interfere in 干涉，干预 interfere with 干扰，妨碍
+interrupt|v.|打断；中断 | Excuse me, I wonder if I colud interrupt you? | interruption n. 中断；打断
 ---
-retreat|n./v.|撤退；退避
-shrink|v.|退缩；缩水；（使）减少
-withdraw|v.|回收；（使）撤退；提（款）
-withstand|v.|承受；顶住；经受住|The bridge is built to withstand an earthquake of 8.0 magnitude 这座桥可以经受 8 级地震|magnitude n. 巨大；重大；重要性。~ severe tests 经得住严峻的考验
+retreat|n./v.|撤退；退避 | He immediately sounded a retreat.
+shrink|v.|退缩；缩水；（使）减少 | The dress shrank when I washed it. | shrink back 退缩，畏缩
+withdraw|v.|回收；（使）撤退；提（款） | She withdraw all her savings from the bank.
+withstand|v.|承受；顶住；经受住|The bridge is built to withstand an earthquake of 8.0 magnitude 这座桥可以经受 8 级地震|magnitude n. 巨大；重大；重要性； 震级。~ severe tests 经得住严峻的考验
 ---
-compromise|v.|妥协
-surrender|n./v.|投降；（被迫）放弃
-escape|n./v.|逃跑；逃脱；逃避
-avoid|v.|避免；躲开
+compromise|v.|妥协 | They cannot compromise with the terrorists on such terms. | promise v./n. 承诺 compromise with sb. on sth. 在某方面与某人妥协
+surrender|n./v.|投降；（被迫）放弃 | Thousands of illegal immigrants have surrendered to police. | surrender onself to 向。。。投降；沉迷于，听任。。。摆布
+escape|n./v.|逃跑；逃脱；逃避 | To my surprise, he managed to escape from that big fire. | escape danger 避免危险
+avoid|v.|避免；躲开 | He'll look for any excuse to avoid doing the dishes. | avoid punishment 逃避惩罚
 ---
-quit|v.|放弃，停止；辞去，离开
-abandon|v.|放弃，抛弃，丢弃
-forgo/forego|v.|放弃
-discard|v.|丢弃，抛弃
-rid|adj.|[get ~ of]摆脱，丢弃
+quit|v.|放弃，停止；辞去，离开 | She has not quit smoking, but is holding down to three cigarettes a day. | quit office 离职
+abandon|v.|放弃，抛弃，丢弃 | Do not abandon yourself to despair. | abandon oneself to 沉湎于
+forgo/forego|v.|放弃 | We'll have to forgo our rest hour to gather in the wheat before the storm begins.
+discard|v.|丢弃，抛弃 | Outdated theory should be discarded.
+rid|adj.|[get ~ of]摆脱，丢弃 | If you get rid of the water, you get rid of the mosquitoes. 
 ---
-defend|v.|防御，保护；为...辩护||defendant n. 被告
-safeguard|v./n.|保护，保卫/保护措施
-defeat|v./n.|战胜，击败/失败
+defend|v.|防御，保护；为...辩护|She demonstrated the best way to defend oneself. 她示范了最有效的自卫方法|defendant n. 被告 defend against 防御
+safeguard|v./n.|保护，保卫/保护措施 | To safeguard the peace is one of the important tasks of the army. | safeguard sb.'s interests 保护某人的利益
+defeat|v./n.|战胜，击败/失败 | They were defeated in the football match.
 resist|v.|抵制，反对；抵御，忍住
 capture|n./v.|战利品/捕获，夺得
 ---
