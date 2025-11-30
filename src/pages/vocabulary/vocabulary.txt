@@ -3572,35 +3572,35 @@ rid|adj.|[get ~ of]摆脱，丢弃 | If you get rid of the water, you get rid of
 ---
 defend|v.|防御，保护；为...辩护|She demonstrated the best way to defend oneself. 她示范了最有效的自卫方法|defendant n. 被告 defend against 防御
 safeguard|v./n.|保护，保卫/保护措施 | To safeguard the peace is one of the important tasks of the army. | safeguard sb.'s interests 保护某人的利益
-defeat|v./n.|战胜，击败/失败 | They were defeated in the football match.
-resist|v.|抵制，反对；抵御，忍住
-capture|n./v.|战利品/捕获，夺得
+defeat|v./n.|战胜，击败/失败 | They were defeated in the football match. | A man can be destroyed but not defeated. 你可以毁灭我，但不能打败我
+resist|v.|抵制，反对；抵御，忍住 | She could hardly resist laughing  | resistance n. 反对，抵抗 resistant adj. 反对的，抵抗的 resist aggression 抵御侵略
+capture|n./v.|战利品/捕获，夺得 | The fraudster was captured when trying to escape from the city. | capture sb.'s heart 捕获某人的芳心
 ---
-victory|n.|胜利，成功||victorious adj. 胜利的，得胜的
-triumph|n./v.|伟大胜利，非凡的成功/获得胜利
-conquer|v.|征服，客服，战胜
+victory|n.|胜利，成功|The school football team has had three victories this month against other schools.|victorious adj. 胜利的，得胜的 
+triumph|n./v.|伟大胜利，非凡的成功/获得胜利 | It was a great triumph when our team won the race. | achieve great triumphs 获得巨大的成就
+conquer|v.|征服，客服，战胜 | To conquer or to die 不成功，便成仁 | conquest n. 占领，征服；克服  conquer shyness 克服羞怯心理 
 ---
-monument|n.|纪念碑，历史古迹，典范
-tablet|n.|碑，匾，药片
-statue|n.|雕像，塑像
-medal|n.|勋章，奖章
+monument|n.|纪念碑，历史古迹，典范 | This work is one of the great monuments of French literature. | The Monument to the People's Heroes 人民英雄纪念碑
+tablet|n.|碑，匾，药片 | The doctor told him to take two tablets before every meal. | a memorial tablet 纪念碑（或匾）
+statue|n.|雕像，塑像 | The statue of Liberty was presented to the United States of America in the nineteenth century by the people of France.
+medal|n.|勋章，奖章 | It was an unbelievable moment when Victoria won the gold medal | award sb. a medal 授予某人奖章
 ---
-honor/honour|n./v.|尊敬，敬意，冗余/尊敬，给予表扬
-glorious|adj.|光荣的，荣耀的||glory n. 光荣，荣耀
-contribute|v.|捐献，做贡献，撰稿
-devote|v.|献身，投入
-owe|v.|欠；应把...归功于；欠，感激
+honor/honour|n./v.|尊敬，敬意，冗余/尊敬，给予表扬 | He's won an Academy Award and a host of other honours | honourable adj. 可敬的；光荣的
+glorious|adj.|光荣的，荣耀的|Our country has a glorious past |glory n. 光荣，荣耀
+contribute|v.|捐献，做贡献，撰稿 | She seldom contributes to the discussion | seldom adv. 很少 contribution n. 贡献；捐款 contribute to 为。。。做贡献
+devote|v.|献身，投入 | After she graduated, she continued to devote herself to research. | devotion n. 献身，奉献 devote sth. to 把时间、精力等用于
+owe|v.|欠；应把...归功于；欠，感激 | I owe a lot to my wife and children 我很感激我的妻子和孩子
 ---
-patrol|n./v.|巡逻，巡查
-guard|n./v.|卫兵，警卫员/看守，守卫，保卫
-camouflage|v./n.|伪装||protection camouflage 防护伪装
-obstacle|n.|障碍；障碍物
+patrol|n./v.|巡逻，巡查 | Every hour a policement patrolled our street. | on patrol 在巡逻的
+guard|n./v.|卫兵，警卫员/看守，守卫，保卫 | The dog guarded the house against strangers. | guardian n. 保卫者；监护人 adj. 守护的
+camouflage|v./n.|伪装|Many animals have natural camouflage which hides them from the predators. |protection camouflage 防护伪装
+obstacle|n.|障碍；障碍物 |Her father's disapproval remained their obstacle | clear away obstacles 排除障碍
 burrow|n./v.|地洞，地道/掘地洞|The prairie dog stores food in its burrow|prairie dog 草原犬鼠
 ---
-spy|n./v.|间谍，特务/收集情报，从事间谍活动
-scout|n./v.|侦查员，侦察机/侦查，搜寻
-general|n./adj.|将军/总的，一般性的
-soldier|n.|战士，士兵
+spy|n./v.|间谍，特务/收集情报，从事间谍活动 | She hired a detective to spy on her husband | spy on 窥探，暗中监视
+scout|n./v.|侦查员，侦察机/侦查，搜寻 | The scout was searching through the woods. | scout about for 到处寻找
+general|n./adj.|将军/总的，一般性的 | As a general rule, prices follow demands. | generally adv. 一般地，通常地 in general 大体上，总的来说
+soldier|n.|战士，士兵 | The soldier received a serious wound on the chest | command soldiers 指挥士兵
 veteran|n.|老兵，老手|The baseball veteran loved to coach young players
 ===
 社会角色
