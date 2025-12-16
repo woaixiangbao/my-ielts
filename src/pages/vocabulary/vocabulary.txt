@@ -3633,33 +3633,33 @@ twin|adj./n.|成双的/双胞胎之一 | You should know that this plan has a tw
 ---
 embryo|n./adj.|胚胎/胚胎的，初期的 | Our plans are still in embryo.
 infant|n./adj.|供婴儿用的；婴儿的 | The infant mortality rate is a highly sensitive barometer of socio-economic conditions | mortality n. 死亡人数，死亡率 sensitive adj. 灵敏的 barometer n. 指标
-orphan|n./v.|孤儿/使成为孤儿
+orphan|n./v.|孤儿/使成为孤儿 | The three children were orphaned when their parents died in a plane crash.
 ---
-juvenile|adj./n.|少年的/少年
-youngster|n.|年轻人；少年
-youth|n.|青年时期；青春；青年
+juvenile|adj./n.|少年的/少年 | The probelem of juvenile delinquency calls for the attention of the whole society. | delinquency n. (尤指青少年的)犯罪，不良行为 
+youngster|n.|年轻人；少年 | These youngsters yearn for an adventure in the wild. | yearn v. 渴望
+youth|n.|青年时期；青春；青年 | We shouldn't blame youth crime simply on unemployment. | youthful adj. 年轻的；青年的
 ---
-gang|n.|一帮，一伙（常聚在一起闹事、打斗的年轻人）
-teenager|n.|（13 至 19 岁之间的）青少年
-adolescence|n.|青春期||reach one's adolescence
+gang|n.|一帮，一伙（常聚在一起闹事、打斗的年轻人） | Have you seen any of the gang lately
+teenager|n.|（13 至 19 岁之间的）青少年 | The survey shows that four out of five teenagers in this area have experimented with illegal drug.
+adolescence|n.|青春期|His adolescence was not a happy time for him.|reach one's adolescence
 ---
-kin|n./adj.|（统称）家属，亲戚/有血缘关系的；类似的
-folk|n.|人们；[~s]家属，亲属
-relative|n./adj.|相对的；有关的
+kin|n./adj.|（统称）家属，亲戚/有血缘关系的；类似的 | ALl his kin were at the wedding
+folk|n.|人们；[~s]家属，亲属 | You're on the list of folks I'm indebted to.
+relative|n./adj.|相对的；有关的 | We do not abandon our relatives when times get tough. | relate v. 联系 related adj. 有联系的 relation n. 关系；亲属 relationship n. 关系，联系
 ---
-intimate|adj./n.|亲密的；个人隐私的/密友，至交
-dear|adj./int.|亲爱的/啊呀
-darling|n.|亲爱的；宠儿
-lover|n.|爱好者；（婚外的）情人
-beloved|n./adj.|爱人/深受喜爱的
+intimate|adj./n.|亲密的；个人隐私的/密友，至交 | Do you believe these two intimate friends used to be mutual sworn enemies? | mutual adj. 相互的 sworn adj. 注定的
+dear|adj./int.|亲爱的/啊呀 | Dear John, thanks for asking me to help you with the class trip.
+darling|n.|亲爱的；宠儿 | Oh, dearling, I couldn't be more pleased for you
+lover|n.|爱好者；（婚外的）情人 | He and his wife are both great lovers of drama | dream lover 梦中情人
+beloved|n./adj.|爱人/深受喜爱的 | This safari park is beloved by tourists from all parts of the globe.
 ---
-madam|n.|夫人；女士；[英]自以为是的小姑娘
-hostess|n.|女主人
-landlady|n.|女房东；女地主
-mistress|n.|女主人；情妇
-housewife|n.|家庭主妇
+madam|n.|夫人；女士；[英]自以为是的小姑娘 | That poor madam has lost all contact with reality.
+hostess|n.|女主人 | It's polite to bring flowers, chocolates or a bottle of wine to the hostess | an air hostess 女乘务员
+landlady|n.|女房东；女地主 | The landlady had prepared some coffee for us.
+mistress|n.|女主人；情妇 | Our wife is duty.Our mistress is honour.
+housewife|n.|家庭主妇 | The cleverest housewife can't cook a meal without rice.
 ---
-widow|n.|寡妇，遗孀
+widow|n.|寡妇，遗孀 | He left a widow and children totally unprovided for. | window n. 窗户 unprovided adj. 无供给的
 maid|n.|女佣，女仆，少女
 maiden|n.|少女，姑娘
 ---
