@@ -3660,8 +3660,8 @@ mistress|n.|女主人；情妇 | Our wife is duty.Our mistress is honour.
 housewife|n.|家庭主妇 | The cleverest housewife can't cook a meal without rice.
 ---
 widow|n.|寡妇，遗孀 | He left a widow and children totally unprovided for. | window n. 窗户 unprovided adj. 无供给的
-maid|n.|女佣，女仆，少女
-maiden|n.|少女，姑娘
+maid|n.|女佣，女仆，少女 | Those people looked at me like I was just a maid.
+maiden|n.|少女，姑娘 | She was a tender, watchful maiden | tender adj. 脆弱的，温柔的 watchful adj. 警惕的
 ---
 household|n.|家庭，一户，家务
 chore|n.|家庭杂物；乏味无聊的工作
