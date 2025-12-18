@@ -3663,12 +3663,12 @@ widow|n.|寡妇，遗孀 | He left a widow and children totally unprovided for. 
 maid|n.|女佣，女仆，少女 | Those people looked at me like I was just a maid.
 maiden|n.|少女，姑娘 | She was a tender, watchful maiden | tender adj. 脆弱的，温柔的 watchful adj. 警惕的
 ---
-household|n.|家庭，一户，家务
-chore|n.|家庭杂物；乏味无聊的工作
-host|n.|主人，东道主
+household|n.|家庭，一户，家务 | The appliance of electricity to household tasks makes housework much easier. | appliance n. 家用电器，装置  a low-income household 一户低收入家庭
+chore|n.|家庭杂物；乏味无聊的工作 | It's such a chore to do the shopping every day! | do the domestic chores 干家务杂活儿
+host|n.|主人，东道主 | Do not bring alcoholic beverages in case your host or hostess doesn't drink alcohol. 不要带酒类饮料，以防主人或女主人不喝酒 | beverage n. 饮料 alcoholic adj. 含酒精的
 ---
-landlord|n.|地主；房东；（酒吧）店主
-tenant|n.|客房；租户
+landlord|n.|地主；房东；（酒吧）店主 | He is the landload of this house. | an absentee landlord 在外业主，在外房东 
+tenant|n.|客房；租户 | 
 guest|n.|客人，宾客，旅客
 customer|n.|顾客，主顾，客户
 client|n.|顾客；客户；委托人
